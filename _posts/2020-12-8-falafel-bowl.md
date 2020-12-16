@@ -5,6 +5,7 @@ categories:
   - Vegan
 image:
   path: /images/falafel bowl/falafel bowl 1.png
+  thumbnail: /images/falafel bowl/falafel bowl 4.png
 ---
 
 
