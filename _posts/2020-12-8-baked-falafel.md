@@ -1,13 +1,15 @@
 ---
-layout: post
-title: (Mostly) Baked Falafel
+title: "(Mostly) Baked Falafel"
+categories:
+  - Mediterranean
+  - Vegan
+image:
+  path: /images/baked falafel/baked falafel 1.png
 ---
+
 
 Who knew something vegan could be so good?
 
-![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 1.png)
-
-The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbirdfood.com/easy-baked-falafel/)
 
 ### Ingredients:
 
@@ -56,3 +58,5 @@ The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbird
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 5.png)
 
 * Remove from heat and serve hot. I like making a falafel bowl - recipe linked [here](http://prernaadvani.github.io/falafel-bowl/)
+
+The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbirdfood.com/easy-baked-falafel/)
