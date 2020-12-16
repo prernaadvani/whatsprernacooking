@@ -1,7 +1,8 @@
 ---
 title: "Guacamole"
 categories:
-  - Side
+  - Sides
+  - Vegan
   - Dip
   - Mexican
 image:
