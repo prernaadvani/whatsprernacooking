@@ -82,7 +82,7 @@ plugins:
 # Front Matter Defaults
 defaults:
   # Posts defaults
-- scope:
+  - scope:
       path: "_recipes"
       type: recipes
     values:
