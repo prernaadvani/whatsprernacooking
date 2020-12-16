@@ -83,10 +83,10 @@ plugins:
 defaults:
   # Posts defaults
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_recipes"
+      type: recipes
     values:
-      layout: post
+      layout: recipes
       share: true
 
 # Site Author
