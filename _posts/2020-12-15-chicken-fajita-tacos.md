@@ -17,11 +17,11 @@ Sharing my dad's recipe - to make this the way that he does, buy chicken breasts
 
 _Per two tacos:_
 
-* 1/4 red bell pepper
-* 1/4 green bell papper
-* 1/4 onion
+* 1/4 red bell pepper, cut lengthwise
+* 1/4 green bell papper, cut lengthwise
+* 1/4 onion, cut lengthwise
 * 2 tablespoons taco seasoning (I use [this one](https://www.kroger.com/p/kroger-original-taco-seasoning/0001111071503))
-* 3-4 small fully cooked chicken fajita strips (I use [this one](https://www.kroger.com/p/tyson-grilled-ready-fully-cooked-fajita-chicken-strips/0002370001628))
+* 5-6 small fully cooked chicken fajita strips (I use [this one](https://www.kroger.com/p/tyson-grilled-ready-fully-cooked-fajita-chicken-strips/0002370001628))
 * 2 flour tortillas (or corn tortillas if you roll that way)
 * 1/4 cup taco sauce (I use [this one](https://www.kroger.com/p/ortega-thick-smooth-mild-taco-sauce/0003900000890))
 * 1/4 cup shredded Mexican cheese blend (I use [this one](https://www.kroger.com/p/old-el-paso-mexico-style-4-cheese-blend-shredded-cheese/0007592530693))
@@ -40,9 +40,9 @@ _Per two tacos:_
 
 ![_config.yml]({{ site.baseurl }}/images/chicken fajita tacos/fajita 3.png)
 
-* Finish up by adding your toppings - add the taco sauce to both tacos, followed by the cheese, cilantro, and lemon juice. 
+* Finish up by adding your toppings - add the taco sauce to both tacos, followed by the cheese.
 
 ![_config.yml]({{ site.baseurl }}/images/chicken fajita tacos/fajita 4.png)
 
-* Enjoy!
+* Add the lemon juice and cilantro, if using, and enjoy!
 
