@@ -6,6 +6,7 @@ categories:
   - Mexican
 image:
   path: /images/guac/guac.png
+  thumbnail: /images/guac/guac 2.png
 ---
 
 Dangerously addictive. 
