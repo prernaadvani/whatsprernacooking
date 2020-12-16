@@ -5,7 +5,7 @@ categories:
   - Pasta
 image:
   path: /images/mac n cheese/mac n cheese 1.png
-  thumbnaik: /images/mac n cheese/mac n cheese 5.png
+  thumbnail: /images/mac n cheese/mac n cheese 5.png
 ---
 
 
