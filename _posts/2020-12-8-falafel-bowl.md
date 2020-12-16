@@ -1,10 +1,15 @@
 ---
-layout: post
-title: Falafel Bowl
+title: "Falafel Bowl"
+categories:
+  - Mediterranean
+  - Vegan
+image:
+  path: /images/falafel bowl/falafel bowl 1.png
 ---
+
+
 Less vegan but still very good
 
-![_config.yml]({{ site.baseurl }}/images/falafel bowl/falafel bowl 1.png)
 
 ### Ingredients:
 
