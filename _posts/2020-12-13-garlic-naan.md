@@ -53,6 +53,8 @@ Is there anything more satisfying than deflating a risen ball of dough?
 
 * Make the garlic butter: melt the butter and mix all of the ingredients together.
 
+![_config.yml]({{ site.baseurl }}/images/garlic naan/garlic naan 10.png)
+
 * Ready to roll and go! Sprinkle a little bit of flour on the top of one of the divided dough balls, and use a rolling pin to roll it out to an oval-rectangular shape. Lightly sprinking with flour before rolling prevents the dough from sticking to the pin. 
 
 ![_config.yml]({{ site.baseurl }}/images/garlic naan/naan 4.png)
