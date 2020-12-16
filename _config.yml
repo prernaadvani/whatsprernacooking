@@ -102,10 +102,12 @@ author:
 
 # Footer Links
 footer_links:
-  email: prerna206@hotmail.com
-  facebook: 
-  github: 
-  instagram:
-  linkedin: prernaadvani
-  rss: # just type anything here for a working RSS icon
-  twitter: prerna206
+  - title: Twitter
+    url: https://twitter.com/prerna206
+    icon: fab fa-twitter-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/prernaadvani/
+    icon: fab fa-linkedin
+  - title: Email
+    url: mailto:prerna206@hotmail.com
+    icon: fas fa-envelope
