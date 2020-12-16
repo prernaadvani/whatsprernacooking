@@ -27,7 +27,7 @@ _Per 8 naan:_
 _For the garlic butter:_
 * 3 tablespoons butter (I use vegan butter due to lactose intolerance and it tastes pretty much the same as regular butter)
 * 2 teaspoons minced garlic
-* 1/2 jalapeno (I used 1/2 tablespoons of jalapeno paste)
+* 1/2 jalapeno (I used a 1/2 tablespoon of jalapeno paste)
 * chopped fresh cilantro
 * dried parsley 
 
