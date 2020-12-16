@@ -1,10 +1,15 @@
 ---
-layout: post
-title: Garlic Naan
+title: "Garlic Naan"
+categories:
+  - Indian
+  - Bread
+  - Side
+image:
+  path: /images/garlic naan/naan 8.png
 ---
+
 The most versatile of breads. What can't it do?
 
-![_config.yml]({{ site.baseurl }}/images/garlic naan/naan 8.png)
 
 ### Ingredients:
 
