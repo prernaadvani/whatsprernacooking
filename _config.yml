@@ -6,7 +6,7 @@ title: "What's Prerna Cooking"
 description: "A Pandemic-Induced Recipe Website"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://prernaadvani.github.io
-logo: fas fa-utensils
+logo: /images/WPC Logo.png
 date_format: "%B %-d, %Y"
 
 google_fonts:
