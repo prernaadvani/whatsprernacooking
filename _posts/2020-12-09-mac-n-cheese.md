@@ -3,9 +3,13 @@ title: "Mac N cheese"
 categories:
   - Comfort Food
   - Pasta
+image:
+  path: /images/mac n cheese/mac n cheese 1.png
 ---
 
-
+```yaml
+image: /images/mac n cheese/mac n cheese 1.png
+```
 
 
 Kicking off this recipe website with my one true love and something I could truly eat everyday for the rest of my life: Mac n Cheese. 
