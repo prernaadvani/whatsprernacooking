@@ -2,6 +2,7 @@
 title: "Mac N cheese"
 categories:
   - Comfort Food
+  - Pasta
 ---
 
 
