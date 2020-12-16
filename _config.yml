@@ -102,6 +102,10 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  email: prerna206@hotmail.com
+  facebook: 
+  github: 
+  instagram:
+  linkedin: prernaadvani
+  rss: # just type anything here for a working RSS icon
+  twitter: prerna206
