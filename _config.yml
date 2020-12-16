@@ -83,8 +83,8 @@ plugins:
 defaults:
   # Posts defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_posts"
+      type: posts
     values:
       layout: post
       comments: true
