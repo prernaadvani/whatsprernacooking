@@ -1,6 +1,6 @@
 
 remote_theme: mmistakes/so-simple-theme@3.2.0
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "What's Prerna Cooking"
 description: "A Pandemic-Induced Recipe Website"
