@@ -1,10 +1,6 @@
 ---
 title: "Mac and Cheese"
 categories: Comfort Food
-image: 
-  path: /images/mac n cheese/mac n cheese 1.png)
-  thumbnail: /images/chocolate-chip-cookies-400x200.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 
