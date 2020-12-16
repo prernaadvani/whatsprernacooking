@@ -5,6 +5,7 @@ categories:
   - Vegan
 image:
   path: /images/baked falafel/baked falafel 1.png
+  thumbnail: /images/baked falafel/baked falafel 6.png
 ---
 
 
