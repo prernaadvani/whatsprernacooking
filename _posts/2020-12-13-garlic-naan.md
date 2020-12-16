@@ -6,10 +6,10 @@ categories:
   - Side
 image:
   path: /images/garlic naan/naan 8.png
+  thumbnail: /images/garlic naan/naan 8.png
 ---
 
 The most versatile of breads. What can't it do?
-
 
 ### Ingredients:
 
