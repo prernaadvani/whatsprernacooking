@@ -1,5 +1,5 @@
 ---
-title: "Mac N Cheese"
+title: "Mac & Cheese"
 categories:
   - Comfort Food
   - Pasta
