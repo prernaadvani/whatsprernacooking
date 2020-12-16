@@ -9,7 +9,7 @@ image:
 ---
 
 
-Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life: Mac n Cheese. 
+Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life: Mac & Cheese. 
 
 
 ### Ingredients:
