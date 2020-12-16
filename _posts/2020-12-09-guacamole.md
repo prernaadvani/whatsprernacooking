@@ -1,11 +1,15 @@
 ---
-layout: post
-title: Guacamole
+title: "Guacamole"
+categories:
+  - Side
+  - Dip
+  - Mexican
+image:
+  path: /images/guac/guac.png
 ---
 
 Dangerously addictive. 
 
-![_config.yml]({{ site.baseurl }}/images/guac/guac.png)
 
 ### Ingredients:
 
