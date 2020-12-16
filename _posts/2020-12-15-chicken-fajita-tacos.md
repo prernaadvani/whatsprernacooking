@@ -32,7 +32,7 @@ _Per two tacos:_
 
 ### Instructions:
 
-* In a small-medium sized skillet, add the red bell peppers, green bell peppers, onion, taco seasoning, and chicken strips. Cook for 5-6 minutes until the peppers and onion have softened, and the chicken is heated all the way through.
+* In a small skillet, add the red bell peppers, green bell peppers, onion, taco seasoning, and chicken strips. Cook for 5-6 minutes until the peppers and onion have softened, and the chicken is heated all the way through.
 
 * In the meantime, warm your tortillas. I like to do this by bending the tortillas into the shape of a taco and putting it in the toaster for a minute or two. Alternatively, you can also heat it on the stove. Once heated, set them out on a plate.
 
