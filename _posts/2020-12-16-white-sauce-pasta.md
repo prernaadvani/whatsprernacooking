@@ -22,7 +22,6 @@ The result when carbonara, cacio e pepe, and bechamel combine forces.
 * 1.5 tablespoons all purpose flour
 * 3/4 cup half and half
 * 3/4 cup grated pecorino romano, plus some extra as a garnish (in a pinch, you can use parmesan)
-* 1/2 cup grated parmesan or pecorino romano (I used pecorino romano)
 * salt, to taste
 
 
