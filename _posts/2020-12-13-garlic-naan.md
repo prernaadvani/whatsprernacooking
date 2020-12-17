@@ -5,7 +5,7 @@ categories:
   - Bread
   - Sides
 image:
-  path: /images/garlic naan/naan 8.png
+  path: /images/garlic naan/naan 11.png
   thumbnail: /images/garlic naan/naan 9.png
 ---
 
