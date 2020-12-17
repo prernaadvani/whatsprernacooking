@@ -3,7 +3,6 @@ title: "Guacamole"
 categories:
   - Sides
   - Vegan
-  - Dip
   - Mexican
 image:
   path: /images/guac/guac.png
