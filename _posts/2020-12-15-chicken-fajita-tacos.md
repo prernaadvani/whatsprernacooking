@@ -2,7 +2,7 @@
 title: "Chicken Fajita Tacos"
 categories:
   - Mexican
-  - Chicken
+  - Not Vegetarian
 image:
   path: /images/chicken fajita tacos/fajita 1.png
   thumbnail: /images/chicken fajita tacos/fajita 2.png
