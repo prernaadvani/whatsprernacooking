@@ -61,3 +61,5 @@ _Personally, I find this bread pudding to be fairly heavy and rich, which is why
 * Top with some more chocolate chips if you _really_ love chocolate or you can add your strawberries at this point. Personally, I like to leave it as is and add the strawberries while I'm eating it instead of on top of the bread pudding.
 
 ![_config.yml]({{ site.baseurl }}/images/dark chocolate bread pudding/pudding 4.png)
+
+The recipe that I used is adapted from [Sally's Baking Addiction](https://sallysbakingaddiction.com/dark-chocolate-bread-pudding/#tasty-recipes-66983)
