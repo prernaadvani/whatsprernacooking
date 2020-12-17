@@ -3,6 +3,7 @@ title: "Dark Chocolate Bread Pudding"
 categories:
   - Dessert
   - Chocolate
+  - Bread
 image:
   path: /images/dark chocolate bread pudding/pudding 1.png
   thumbnail: /images/dark chocolate bread pudding/pudding 2.png
