@@ -9,7 +9,7 @@ image:
 ---
 
 
-Less vegan but still very good
+Less vegan but still very good.
 
 
 ### Ingredients:
