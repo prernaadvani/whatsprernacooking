@@ -13,6 +13,8 @@ The result when carbonara, cacio e pepe, and bechamel combine forces.
 
 ### Ingredients:
 
+Makes about 2 servings - 
+
 * 1 teaspoon black peppercorn
 * 1 tablespoon olive oil 
 * 1 egg yolk
