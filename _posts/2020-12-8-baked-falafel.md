@@ -15,6 +15,8 @@ The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbird
 
 ### Ingredients:
 
+Makes about 8-10 falafels - 
+
 * 1 15-oz can of chickpeas, drained and rinsed
 * 1/4 cup diced red onion
 * 1.5 tsp minced garlic (or 3 cloves)
