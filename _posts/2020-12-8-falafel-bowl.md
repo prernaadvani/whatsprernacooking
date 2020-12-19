@@ -61,3 +61,7 @@ _For my vegan readers: skip the tzatziki, feta, and make sure that the pesto you
   - add falafel, rice, tzatziki, hummus, tomatoes, and onions in a respective area of the bowl each
   - top with feta, lemon juice, and parsley.
 
+* Makes a pretty good meal prep too!
+
+
+![_config.yml]({{ site.baseurl }}/images/falafel bowl/falafel bowl 5.png)
