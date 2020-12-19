@@ -4,6 +4,7 @@ categories:
   - Holiday Food
   - Chocolate
   - Dessert
+  - Italian
 image:
   path: /images/pavlova/pavlova 2.png
   thumbnail: /images/pavlova/pavlova 1.png
