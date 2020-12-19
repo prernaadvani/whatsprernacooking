@@ -12,6 +12,7 @@ image:
 
 For all the chocolate lovers out there! Bonus points if you're also a bread pudding lover.
 
+The recipe that I used is adapted from [Sally's Baking Addiction](https://sallysbakingaddiction.com/dark-chocolate-bread-pudding/)
 
 ### Ingredients:
 
@@ -63,4 +64,3 @@ _Personally, I find this bread pudding to be fairly heavy and rich, which is why
 
 ![_config.yml]({{ site.baseurl }}/images/dark chocolate bread pudding/pudding 4.png)
 
-The recipe that I used is adapted from [Sally's Baking Addiction](https://sallysbakingaddiction.com/dark-chocolate-bread-pudding/#tasty-recipes-66983)
