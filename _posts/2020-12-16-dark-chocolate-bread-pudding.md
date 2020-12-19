@@ -16,7 +16,7 @@ The recipe that I used is adapted from [Sally's Baking Addiction](https://sallys
 
 ### Ingredients:
 
-Makes about 8 servings - 
+Makes about 12 servings - 
 
 * 1.5 cups heavy cream
 * 2 cups whole milk 
