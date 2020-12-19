@@ -22,7 +22,7 @@ Makes about 4 servings -
   - _Note: highly recommend using fresh lime instead of lime juice_
 * 1 small shallot, minced
 * 1/8 cup cilantro, chopped
-* 1/2 - 1 jalapeno pepper, seeded and minced (depending on spice tolerance).
+* 1/2 - 1 jalapeno pepper, seeded and minced (adjust based on spice tolerance).
 * sea salt, to taste
 * pepper, to taste
 * 1/2 teaspoon cumin
