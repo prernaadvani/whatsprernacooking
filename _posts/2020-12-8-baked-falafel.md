@@ -11,6 +11,7 @@ image:
 
 Who knew something vegan could be so good?
 
+The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbirdfood.com/easy-baked-falafel/)
 
 ### Ingredients:
 
@@ -59,5 +60,3 @@ Who knew something vegan could be so good?
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 5.png)
 
 * Remove from heat and serve hot. I like making a falafel bowl - recipe linked [here](https://prernaadvani.github.io/mediterranean/vegan/falafel-bowl/)
-
-The recipe that I used is adapted from [Eating Bird Food](https://www.eatingbirdfood.com/easy-baked-falafel/)
