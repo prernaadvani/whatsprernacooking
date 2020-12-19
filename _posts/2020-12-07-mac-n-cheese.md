@@ -11,6 +11,7 @@ image:
 
 Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life: Mac & Cheese. 
 
+The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/recipe/mac-n-cheese)
 
 ### Ingredients:
 
@@ -55,6 +56,3 @@ Kicking off this recipe website with my one true love and something I could undo
 * Sprinkle the breadcrumbs on top, followed by the parsley (you can also add the parsley after baking the pasta instead of before). You can add some extra parmesan (or pecorino romano) here if you would like to as well. 
 
 * Bake for about 20 minutes, until the sauce is bubbling. Let cool and serve.
-
-
-The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/recipe/mac-n-cheese)
