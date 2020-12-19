@@ -11,7 +11,7 @@ image:
 ---
 
 
-If there's only one thing you make from this recipe website, let it be this.
+If there's only one thing you make from this website, let it be this.
 
 Fun fact: it was originally made in Australia/New Zealand in honor of Anna Pavlova, a famous Russian ballet dancer, around when she was on tour. It remains a popular Christmas time dessert in the region!
 
