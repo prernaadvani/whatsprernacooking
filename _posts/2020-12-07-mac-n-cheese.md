@@ -3,6 +3,7 @@ title: "Mac & Cheese"
 categories:
   - Holiday Food
   - Pasta
+  - Italian
 image:
   path: /images/mac n cheese/mac n cheese 1.png
   thumbnail: /images/mac n cheese/mac n cheese 5.png
