@@ -32,7 +32,7 @@ _For the pavlova:_
 
 _For the cream:_
 
-* 4 oz espresso mascarpone cheese (1/2 a standard 8 oz container)
+* 4 oz espresso mascarpone cheese (1/2 of a standard 8 oz container)
   - ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 5.png)
   - Alternatively, you can use regular mascarpone and add 1/4 cup brewed espresso.
 * 1/2 cup heavy cream
@@ -54,15 +54,17 @@ _For the topping:_
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 3.png)
 
-* The pavlova is ready to bake! Traditionally, you would line a baking sheet with parchment and mound the mixture in a circular shape. I personally didn't feel very confident in making a cake-like structure in a flat sheet, so I lined an 8x8 baking pan with parchment paper instead and mounded the pavlova in there (hence the square-ish shape).
+* The pavlova is ready to bake! Traditionally, you would line a baking sheet with parchment paper and mound the mixture in a circular shape. I personally didn't feel very confident in making a cake-like structure in a flat sheet, so I lined an 8x8 baking pan with parchment paper instead and mounded the pavlova in there (hence the square-ish shape). I transferred the pavlova (along with the parchment paper) to a flat baking sheet during the last 20 minutes of baking to cook the edges a little better.
 
-* Bake for ~60 minutes. The pavlova should be dry to the touch on the outside when you pull it out of the oven, and soft/fudgey on the inside. It may have some cracks on the outside surface - that's completely normal.
+* Bake for ~60 minutes (transfer from 8x8 pan to flat baking sheet after the first 40 minutes, if you choose to bake it this way). 
+
+* When you pull it out of the oven, the pavlova should be dry to the touch on the outside and soft/fudgey on the inside. It may have some cracks on the outside surface - that's completely normal.
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 4.png)
 
 * Let the pavlova cool for at least 30 minutes. Cooling it by leaving it in the oven after turning it off and cracking the door open slightly will help it cool down slowly.
 
-* Shortly before serving, make the cream. In a medium-large mixing bowl, add the espresso marcarpone, heavy cream, and vanilla essence. Using an electric mixer with a whisk attachment, whisk until all of the ingredients are incorporated. Gradually, add the sugar and keep whisking between each addition until you reach soft peaks. 
+* Shortly before serving, make the cream. In a medium-large mixing bowl, add the espresso mascarpone, heavy cream, and vanilla essence. Using an electric mixer with a whisk attachment, beat until all of the ingredients are incorporated. Gradually, add the sugar and keep whisking between each addition until you reach soft peaks. 
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 6.png)
 
