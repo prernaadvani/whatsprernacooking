@@ -64,7 +64,7 @@ _For the topping:_
 
 * Let the pavlova cool for at least 30 minutes. Cooling it by leaving it in the oven after turning it off and cracking the door open slightly will help it cool down slowly.
 
-* Shortly before serving, make the cream. In a medium-large mixing bowl, add the espresso mascarpone, heavy cream, and vanilla essence. Using an electric mixer with a whisk attachment, beat until all of the ingredients are incorporated. Gradually, add the sugar and keep whisking between each addition until you reach soft peaks. 
+* You can leave the pavlova covered in the fridge for up to 12 hours if you're making this ahead of time. Otherwise, after it has cooled and shortly before serving, make the cream. In a medium-large mixing bowl, add the espresso mascarpone, heavy cream, and vanilla essence. Using an electric mixer with a whisk attachment, beat until all of the ingredients are incorporated. Gradually, add the sugar and keep whisking between each addition until you reach soft peaks. 
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 6.png)
 
