@@ -16,6 +16,8 @@ The recipe that I used is adapted from [Sally's Baking Addiction](https://sallys
 
 ### Ingredients:
 
+Makes about 8 servings - 
+
 * 1.5 cups heavy cream
 * 2 cups whole milk 
 * 2 4-oz semi sweet chocolate baking bars, broken into pieces
