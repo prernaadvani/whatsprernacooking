@@ -2,6 +2,7 @@
 title: "The Ultimate White Sauce Pasta"
 categories:
   - Pasta
+  - Italian
 image:
   path: /images/white sauce pasta/pasta 1.png
   thumbnail: /images/white sauce pasta/pasta 2.png
