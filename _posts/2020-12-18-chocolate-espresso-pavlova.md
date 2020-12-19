@@ -68,7 +68,7 @@ _For the topping:_
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 6.png)
 
-* Mound the whipped cream onto the pavlova in an even layer.
+* Transfer the pavlova to a serving plate and separate the parchment paper. Mound the whipped cream onto the pavlova in an even layer.
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 7.png)
 
