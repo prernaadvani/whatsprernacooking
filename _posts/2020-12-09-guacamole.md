@@ -15,6 +15,8 @@ The recipe that I used is adapted from my friend Inna's guacamole recipe. Thanks
 
 ### Ingredients:
 
+Makes about 4 servings -
+
 * 2 avocados
 * 1 lime (I have experimented with using up to 2 limes before and I think the sweet spot is about 1.25 limes, although that's a rather inconvenient amount)
   - _Note: highly recommend using fresh lime instead of lime juice_
