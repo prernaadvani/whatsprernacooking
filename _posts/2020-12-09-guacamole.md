@@ -11,6 +11,7 @@ image:
 
 Dangerously addictive. 
 
+The recipe that I used is adapted from my friend Inna's guacamole recipe. Thanks, Inna!
 
 ### Ingredients:
 
