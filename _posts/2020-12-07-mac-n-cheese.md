@@ -15,6 +15,8 @@ The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/
 
 ### Ingredients:
 
+Makes about 8 servings-
+
 * 5 tablespoons unsalted butter
 * 1 cup italian breadcrumbs (I like using italian breadcrumbs instead of panko since it already has some parmesan and seasonings in it)
 * 12 oz pasta of choice (I used cavatappi)
