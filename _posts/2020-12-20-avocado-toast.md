@@ -33,4 +33,4 @@ Ingredients listed are for the ideal avocado toast, with substitution options.
 
 * In a small mixing bowl, use a potato masher or a spoon to mash the avocado. 
 
-* On a plate, place the two slices of bread. Add the mashed avocado, pepita salsa, feta/goat cheese, and seasoning in the order they are listed. Enjoy!
+* On a plate, place the two slices of bread. Add the mashed avocado, pepita salsa, feta/goat cheese, and seasoning in this order. Enjoy!
