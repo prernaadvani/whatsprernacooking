@@ -49,35 +49,27 @@ _For the filling:_
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 5.png)
 
 * Lightly grease a clean surface with olive oil and move the dough over there. Using your hands, roll it out into a rectangular shape. 
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 6.png)
 
 * First, add a layer of pesto.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 7.png)
 
 * Next, add the marinara sauce.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 8.png)
 
 * For the final layer, add the parmesan/pecorino romano (if using) and the italian seasoning.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 9.png)
 
 * Ready to braid! Starting on one side of the rectangle, slowly roll the dough to the other side, making a log.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 10.png)
 
 * starting from about an inch or two at the top, cut a line down the middle of the babka and separate the strands.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 11.png)
 
 * Twist the strands over each other starting at the top of the strands all the way down. When you finish doing this, extend the cut line to the top inch or two of the babka and braid the top as well. This step can get pretty messy and I'm personally quite horrible at braiding bread so your babka might look prettier than mine does, but here is an image for reference
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 12.png)
 
 * Finally, we lightly grease a loaf pan and transfer the babka over. This step can get a little messy as well.
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 13.png)
 
 * Preheat the oven to 350 degrees.
@@ -85,5 +77,4 @@ _For the filling:_
 * Cover the loaf pan with a cloth and let the bread rise for about another 10 minutes, and then put it in the oven. Bake for ~40 minutes.
 
 * When the babka is done, wait for it to cool slightly and then slice and serve!
-
 ![_config.yml]({{ site.baseurl }}/images/pizza babka/babka 3.png)
