@@ -20,7 +20,7 @@ Ingredients listed are for the ideal avocado toast, with substitution options.
   - I use 2 slices of whole wheat bread when I'm trying to be healthy, but the ciabatta roll is really the best bread for the toast. 
 * 1 tablespoon pepita salsa, available at Trader Joe's
   - I've heard that people use sriracha mayonaise or hot sauce instead. Personally, I am not a fan, but it might work for you.
-* 1 tablespoon crumbled feta (vegans - skip this)
+* 2 tablespoons crumbled feta (vegans - skip this)
   - Crumbled goat cheese works just as beautifully
 * 1 teaspoon "21 Seasoning Salute", available at Trader Joe's
   - There's no real substitution for this, but you can use your favorite spice blend instead.
