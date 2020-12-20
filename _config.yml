@@ -4,7 +4,7 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "What's Prerna Cooking"
 description: "A Pandemic-Induced Recipe Website"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: 
 url: http://prernaadvani.github.io
 logo: /images/WPC Logo.png
 date_format: "%B %-d, %Y"
@@ -20,38 +20,21 @@ disqus:
 twitter:
   username: prerna206
 
-# Liquid
+
 liquid:
   error_mode: strict
 
-# Build settings
 permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
 
 
-paginate: 10
+paginate: 9
 paginate_path: /page:num/
 
 # Search
-search_full_content: true # can have performance implications for large sites
-
-# Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+search_full_content: true 
 
 plugins:
   - jekyll-seo-tag
