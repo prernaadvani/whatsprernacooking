@@ -33,6 +33,7 @@ _Per bowl:_
   - pepper, to taste
 * feta, as garnish
 * parsley, as garnish
+* fresh cilantro and/or mint, as garnish (optional)
 * 1 tablespoon lemon juice (optional)
 
 _For my vegan readers: skip the tzatziki, feta, and make sure that the pesto you're using is vegan (or skip that too)._
@@ -53,13 +54,13 @@ _For my vegan readers: skip the tzatziki, feta, and make sure that the pesto you
 
   - base layer: pesto rice and spinach
   - middle layer: falafel, tzatziki, hummus
-  - top layer: onion, tomato, feta, parsley, lemon juice
+  - top layer: onion, tomato, feta, parsley, cilantro, mint, lemon juice
   
 * Alternatively, you can create a compartmentalized bowl like I did:
 
   - base layer: spinach
   - add falafel, rice, tzatziki, hummus, tomatoes, and onions in a respective area of the bowl each
-  - top with feta, lemon juice, and parsley.
+  - top with feta, parsley, cilantro, mint, lemon juice.
 
 
 * Makes a pretty good meal prep too!
