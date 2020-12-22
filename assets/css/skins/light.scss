@@ -24,21 +24,21 @@ $danger-color: #ff3b30 !default; /* bright red */
 $info-color: #5ac8fa !default; /* bright light blue */
 
 /* Syntax highlighting (base16) colors */
-$base00: #fafafa !default;
-$base01: #073642 !default;
-$base02: #586e75 !default;
-$base03: #657b83 !default;
-$base04: #839496 !default;
-$base05: #586e75 !default;
-$base06: #eee8d5 !default;
-$base07: #fdf6e3 !default;
-$base08: #dc322f !default;
-$base09: #cb4b16 !default;
-$base0a: #b58900 !default;
-$base0b: #859900 !default;
-$base0c: #2aa198 !default;
-$base0d: #268bd2 !default;
-$base0e: #6c71c4 !default;
-$base0f: #191970 !default;
+$base00: #fafafa !default; /* white */
+$base01: #073642 !default; /* very dark cyan/grey */
+$base02: #586e75 !default; /* lighter dark cyan/grey */
+$base03: #657b83 !default; /* medium greyish blue */
+$base04: #839496 !default; /* light greyish blue */
+$base05: #586e75 !default; /* greyish blue */
+$base06: #eee8d5 !default; /* beige */
+$base07: #fdf6e3 !default; /* lighter beige */
+$base08: #dc322f !default; /* red */
+$base09: #cb4b16 !default; /* burnt orange */
+$base0a: #b58900 !default; /* faded yellow/ ochre */
+$base0b: #859900 !default; /* faded green */
+$base0c: #2aa198 !default; /* teal */
+$base0d: #268bd2 !default; /* medium blue */
+$base0e: #6c71c4 !default; /* medium purple */
+$base0f: #2aa198 !default; /* teal */
 
 @import "so-simple/skin";
