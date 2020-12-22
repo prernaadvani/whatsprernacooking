@@ -23,10 +23,10 @@ _Per bowl:_
 * 1/4 cup diced red onion
 * 1/4 cup diced tomatoes (a handful of diced cherry tomatoes should do the trick)
   - Alternatively, you can use 1/2 cup balela salad instead of the tomato and red onion (recommended, available at Trader Joe's or you can make it yourself)
-* 1/4 cup hummus (store bought, or you can make your own which is one step ahead of me)
+* 1/4 cup hummus (store bought, or you can make your own. I like using the tabbuleh style hummus from Trader Joe's)
 * tzatziki: (note: makes enough for about 4 bowls)
   - 1 cup greek yogurt
-  - 1 persian cucumber, peeled and minced (or use 3/4 if you love cucumbers a little less than I do)
+  - 1 persian cucumber, diced or minced (or use 3/4 if you love cucumbers a little less than I do. Peeling the cucumber is optional)
   - 1 tablespoon olive oil
   - 2 teaspoons minced garlic
   - salt, to taste
