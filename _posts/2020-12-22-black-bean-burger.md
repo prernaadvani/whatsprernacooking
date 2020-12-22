@@ -4,7 +4,7 @@ categories:
   - Burger
 image:
   path: /images/black bean burger/burger 2.png
-  thumbnail: /images/black bean burger/burger 6.png
+  thumbnail: /images/black bean burger/burger 1.png
 ---
 
 My friend Jay eats a vegan version of this for at least 4 meals per week. 
