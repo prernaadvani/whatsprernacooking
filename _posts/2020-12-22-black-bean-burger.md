@@ -29,7 +29,7 @@ _Per 4 burger patties:_
   
 _Per 4 burgers:_
 
-* 4 "everything but the bagel" ciabatta rolls, available at Trader Joe's (substitute with other bread as desired, this one is just my favorite)
+* 4 "everything but the bagel" ciabatta rolls, available at [Trader Joe's](https://www.traderjoes.com/digin/post/everything-ciabatta-rolls) (substitute with other bread as desired, this one is just my favorite)
 * 1 cup guacamole, recipe available [here](https://prernaadvani.github.io/sides/vegan/mexican/guacamole/)
 * 4 slices of cheese (I personally like pepper jack in this recipe, and sometimes I substitute it with feta or goat cheese)
 * 4 tablespoons chipotle aioli (optional, I like using [this one](https://www.kroger.com/p/kraft-chipotle-aioli/0002100006499))
