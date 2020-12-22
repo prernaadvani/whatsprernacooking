@@ -31,6 +31,10 @@ blockquote {
   }
 }
 
+img {
+  border: 5px solid #555;
+}
+
 .copyright {
   color: lighten($text-color, 25%);
   a {
@@ -39,11 +43,11 @@ blockquote {
 }
 
 .taxonomy-title {
-  color: lighten($text-color, 60%);
+  color: lighten($text-color, 30%);
 }
 
 .taxonomy-count {
-  color: lighten($text-color, 50%);
+  color: lighten($text-color, 30%);
 }
 
 .taxonomy-index {
