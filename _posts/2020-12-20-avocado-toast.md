@@ -16,7 +16,7 @@ I eat this for at least 4 meals per week. I wish I was kidding.
 Ingredients listed are for the ideal avocado toast, with substitution options.
 
 * 1 ripe avocado 
-* 1 "Everything but the Bagel" ciabatta roll, available at Trader Joe's
+* 1 "Everything but the Bagel" ciabatta roll, available at [Trader Joe's](https://www.traderjoes.com/digin/post/everything-ciabatta-rolls)
   - I use 2 slices of whole wheat bread when I'm trying to be healthy, but the ciabatta roll is really the best bread for the toast. 
 * 1 tablespoon pepita salsa, available at Trader Joe's
   - I've heard that people use sriracha mayonaise or hot sauce instead. Personally, I am not a fan, but it might work for you.
