@@ -4,7 +4,7 @@ categories:
   - Burger
 image:
   path: /images/black bean burger/burger 2.png
-  thumbnail: /images/black bean burger/burger 1.png
+  thumbnail: /images/black bean burger/burger 6.png
 ---
 
 My friend Jay eats a vegan version of this for at least 4 meals per week. 
@@ -49,4 +49,6 @@ _Per 4 burgers:_
 * When you're ready to cook, toast your burger bun to desired level and heat 1/2 tablespoon avocado or olive oil to a small pan and add one burger patty. Cook for a few minutes until the outer layer has firmed well, and then flip. Add a slice of cheese to the cooked side, and let the other side cook for a few minutes. When cooked, take off heat and place the patty on top of one side of the burger bun. Repeat this 3 more times for your other three patties, or you can add 2 tablespoons of oil to a large pan and cook all four patties simultaneously.
 
 * To the other side of your burger bun, add 1/4 cup guacamole, chipotle aioli (if using) and tomato slices (if using). If you're using feta or goat cheese, sprinkle it on top. Close the burger bun, slice in half, and enjoy!
+
+![_config.yml]({{ site.baseurl }}/images/black bean burger/burger 7.png)
 
