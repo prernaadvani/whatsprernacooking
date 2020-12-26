@@ -36,7 +36,6 @@ paginate_path: /page:num/
 # Search
 search_full_content: true 
 
-#plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
