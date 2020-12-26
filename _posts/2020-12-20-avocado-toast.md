@@ -22,6 +22,7 @@ Ingredients listed are for the ideal avocado toast, with substitution options.
   - I've heard that people use sriracha mayonaise or hot sauce instead. Personally, I am not a fan, but it might work for you.
 * 2 tablespoons crumbled feta (vegans - skip this)
   - Crumbled goat cheese works just as beautifully
+  - Sometimes, I half the quantity of goat/feta cheese and add a thin layer of cream cheese to the bread instead. This is probably my favorite way to avocado toast.
 * 1 teaspoon "21 Seasoning Salute", available at Trader Joe's
   - There's no real substitution for this, but you can use your favorite spice blend instead.
   
@@ -33,4 +34,4 @@ Ingredients listed are for the ideal avocado toast, with substitution options.
 
 * In a small mixing bowl, use a potato masher or a spoon to mash the avocado. 
 
-* On a plate, place the two slices of bread. Add the mashed avocado, pepita salsa, feta/goat cheese, and seasoning in this order. Enjoy!
+* On a plate, place the two slices of bread. If you're using cream cheese, layer it onto the toasted bread. Add the mashed avocado, pepita salsa, feta/goat cheese, and seasoning in this order. Enjoy!
