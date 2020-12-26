@@ -54,7 +54,7 @@ _Per 4-5 servings:_
 * While the rice is soaking, you can begin partially cooking the vegetables (they will cook further later on). Since we're half-cooking each vegetable individually, it can take some time.
 
 ![_config.yml]({{ site.baseurl }}/images/veggie biryani/biryani 5.png)
-Before.
+Before
 
 * Heat 1 tablespoon of oil in a medium pan. When heated, add the red onions and cook until caramelized, which takes ~8 minutes. Remove from heat and transfer to a bowl or plate.
 
