@@ -3,8 +3,8 @@ title: "Portuguese Baked Eggs"
 categories:
   - Breakfast
 image:
-  path: /images/baked eggs/egg 2.png
-  thumbnail: /images/baked eggs/egg 1.png
+  path: /images/baked eggs/eggs 2.png
+  thumbnail: /images/baked eggs/eggs 1.png
 ---
 
 If shakshuka had a sister, this would be it. 
@@ -46,7 +46,7 @@ Per 1-2 servings:
 
 * Grease the foil compartment (or baking dish) and pour the mixture in there. Using the back of a spoon, make small divots in the mixtures - the number of divots should equal the number of eggs you're using and should be spaced out as far from each other as possible. To the divots, add the ricotta and then crack your egg(s) on top. Add the cheddar, parmesa, salt and pepper on top of the egg(s), and bake for ~15 minutes. If the yolks are slightly runny, that's okay - they will cook further after removing from the oven.
 
-[_config.yml]({{ site.baseurl }}/images/baked eggs/egg 3.png)
+[_config.yml]({{ site.baseurl }}/images/baked eggs/eggs 3.png)
 
 * Pour the mixture out of the foil/baking dish and into a bowl, and serve with toasted bread.
 
