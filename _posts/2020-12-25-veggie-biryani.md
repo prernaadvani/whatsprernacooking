@@ -19,7 +19,7 @@ _Per 4-5 servings:_
 
 * 1 cup uncooked basmati rice
 * 3 cups water, for soaking
-* 4 teaspoons ground cloves, divided into 2 
+* 4 teaspoons ground cloves, divided into 2 parts
 * 1 teaspoon salt
 * 4 tablespoons avocado or olive oil (substitute with ghee, if you have it)
 * 1 medium red onion, diced
@@ -38,11 +38,11 @@ _Per 4-5 servings:_
 * dash of cinnamon
 * 1/4 cup plain yogurt (vegans - skip this)
 * 1.5 teaspoons biryani masala
-  _Note: I realize that this note might be entirely unhelpful, but I substituted biryani masala with my mom's indian seasoning blend that she sent me off to college with. I have no idea what she put in it, but it's a mix of indian spices that's my go-to for all things indian cooking. You can also substitute this with garam masala, if you have it.)_
+  (_Note: I realize that this note might be entirely unhelpful, but I substituted biryani masala with my mom's indian seasoning blend that she sent me off to college with. I have no idea what she put in it, but it's a mix of indian spices that's ended up being my go-to for all things indian cooking. You can also substitute this with garam masala, if you have it.)_
 * 1/2 teaspoon chilli powder
 * 1/3 cup water
-* 2 tablespoons chopped cilantro, plus extra for garnish
 * 1.5 tablespoons chopped mint
+* 2 tablespoons chopped cilantro, plus extra for garnish
 * pepper, to taste
 * 1 lemon, quartered
 
@@ -54,20 +54,20 @@ _Per 4-5 servings:_
 * While the rice is soaking, you can begin partially cooking the vegetables (they will cook further later on). Since we're half-cooking each vegetable individually, it can take some time.
 
 ![_config.yml]({{ site.baseurl }}/images/veggie biryani/biryani 5.png)
-This is the "before" picture. Scroll down for the "after".
+Before.
 
-* Heat 1 tablespoon of oil in a medium pan. When heated, add the red onions and cook until caremelized, which takes ~8 minutes. Remove from heat and transfer to a bowl or plate.
+* Heat 1 tablespoon of oil in a medium pan. When heated, add the red onions and cook until caramelized, which takes ~8 minutes. Remove from heat and transfer to a bowl or plate.
 
-* Bring the pan back to heat and add another tablespoon of oil. Add the potatoes and cook for ~4-5 minutes, and then transfer to a bowl or plate. 
+* Bring the pan back to heat and add another tablespoon of oil. Add the potatoes and cook for 4-5 minutes, and then transfer to a bowl or plate. 
 
 * Bring the pan back to heat, add another tablespoon of oil, and add the green beans and carrots. Cook for ~4 minutes, and then transfer to a bowl or plate.
 
 * If you're using cashews, bring the pan back to heat and add the cashews (no additional oil necessary). Cook for 1-2 minutes until golden brown, and then transfer to a bowl or plate. This concludes the first round of vegetable cooking.
 
 ![_config.yml]({{ site.baseurl }}/images/veggie biryani/biryani 6.png)
-This is the "after" picture. 
+After
 
-* In a small pan, heat the milk. When warm, add crushed saffron and let it sit for 10 minutes. Set aside.
+* In a small pan, heat the milk. When warm, remove from heat, add crushed saffron, and let it sit for 10 minutes. Set aside.
 
 * At this point, your rice should be done soaking and drained. Heat a small pot a little more than halfway with water and add 2 teaspoons cloves and 1 teaspoon salt. Let the water come to a boil, and then add the soaked rice. Let the rice cook uncovered on medium heat until it's about 75% cooked, which takes about 7-8 minutes. Once your rice is at this point, remove from heat and drain. You don't need to rinse out the rice.
 
