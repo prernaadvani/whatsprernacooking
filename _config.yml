@@ -30,7 +30,7 @@ feed:
   path: atom.xml
 
 
-paginate: 100
+paginate: 12
 paginate_path: /page:num/
 
 # Search
