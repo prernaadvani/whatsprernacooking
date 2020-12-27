@@ -5,7 +5,7 @@ locale: en-US
 title: "What's Prerna Cooking"
 description: "A Pandemic-Induced Recipe Website"
 baseurl: 
-url: http://prernaadvani.github.io
+url: #http://prernaadvani.github.io
 logo: /images/WPC Logo.png
 date_format: "%B %-d, %Y"
 
