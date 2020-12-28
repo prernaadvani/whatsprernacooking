@@ -41,6 +41,17 @@
       {% endif %}
     {% endif %}
 
+    
+     {% if sameTagCount == 0 %}
+        {% if post.url != page.url %}
+            <h5>{{ post.title}}</h5>
+        {% endif %}
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+
   {% endfor %}
 
 </div>
