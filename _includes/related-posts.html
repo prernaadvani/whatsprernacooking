@@ -37,7 +37,7 @@
             {% endfor %}
         
             {% if sameTagCount >= minCommonTags %}
-            {% include post.html %}
+            {% include posts-all.html %}
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             {% if maxRelatedCounter >= maxRelated %}
                 {% break %}
