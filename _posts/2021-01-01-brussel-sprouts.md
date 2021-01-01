@@ -2,6 +2,7 @@
 title: "Brussel Sprouts"
 categories:
   - Vegetables
+  - Sides
 image:
   path: /images/brussel sprouts/sprouts 2.png
   thumbnail: /images/brussel sprouts/sprouts 1.png
@@ -12,7 +13,7 @@ New year new recipe!
 
 ### Ingredients:
 
-Per 2 servings:
+Per 4 servings:
 
 * 1.5 lb bag of brussel sprouts
 * 3 tablespoons olive oil
