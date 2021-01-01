@@ -4,7 +4,7 @@ categories:
   - Vegetables
 image:
   path: /images/brussel sprouts/sprouts 2.png
-  thumbnail: /images/brussel sprouts/sprouts 1.png
+  thumbnail: ![_config.yml]({{ site.baseurl }}/images/brussel sprouts/sprouts 1.png)
 ---
 
 New year new recipe! 
