@@ -10,7 +10,7 @@ image:
 ---
 
 
-Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life: Mac & Cheese. 
+Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life.
 
 The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/recipe/mac-n-cheese)
 
