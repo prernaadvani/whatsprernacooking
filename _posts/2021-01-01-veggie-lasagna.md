@@ -29,7 +29,7 @@ _Per 5-6 servings:_
 * 6 no boil lasagna noodles
 * 1 cup (8 oz) shredded low moisture, part skim mozzarella
 * 1 teaspoon italian seasoning
-* 1/4 cup chopped fresh basil
+* chopped fresh basil, as garnish
 
 ![_config.yml]({{ site.baseurl }}/images/veggie lasagna/lasagna 3.png)
 
