@@ -18,7 +18,7 @@ _Per 8 naan:_
 * 1 cup warm water (I put it in the microwave on high for 30 seconds)
 * 2 tablespoons honey (in a pinch, you can substitute with maple syrup)
 * 1 (2.25 teaspooon) package active dry yeast 
-* 4 cups all-purpose flour (plus extra to flour the surface, and you may need some more to bring it to the right consistency if needed too)
+* 3.5 cups all-purpose flour (plus extra to flour the surface, and you may need some more to bring it to the right consistency if needed too)
 * 1/4 cup plain yogurt 
 * 2 teaspoons fine sea salt
 * 1/2 teaspoon baking powder
