@@ -88,7 +88,7 @@ _For the topping:_
 
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 5.png)
-I used an espresso flavored mascarpone which was pretty good, but I think the coffee flavor is stronger when you use regular mascarpone and add brewed espresso to it instead.
+- I used an espresso flavored mascarpone which was pretty good, but I think the coffee flavor is stronger when you use regular mascarpone and add brewed espresso to it instead.
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 4.png)
 Pavlova base
