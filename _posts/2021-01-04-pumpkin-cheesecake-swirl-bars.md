@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin Swirl Cheesecake Bars"
+title: "Pumpkin Cheesecake Swirl Bars"
 categories:
   - Dessert
   - Holiday Food
