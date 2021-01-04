@@ -19,7 +19,7 @@ _Per 4 servings:_
 * 1.5 cups cherry tomatoes, quartered
 * 1 red onion, diced
 * 1/2 cup black olives, pitted and sliced
-* 1/2 cup feta cheese
+* 1/2 cup crumbled feta cheese
 * 2 teaspoons dried parsley
 * 1 teaspoon 21 Seasoning Salute seasoning blend, from Trader Joe's (optional)
 
