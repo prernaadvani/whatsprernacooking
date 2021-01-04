@@ -1,5 +1,5 @@
 ---
-title: "Brussel Sprouts"
+title: "Roasted Brussel Sprouts"
 categories:
   - Vegetables
   - Sides
@@ -32,6 +32,7 @@ Per 4 servings:
 * I used an 8x8 baking dish in this image, but I typically use a baking sheet and line it with parchment paper or foil - spreading the sprouts out help them cook evenly, and I recommend the baking sheet. In your baking dish/sheet, add the olive oil and seasonings. Toss until combined.
 
 ![_config.yml]({{ site.baseurl }}/images/brussel sprouts/sprouts 3.png)
+![_config.yml]({{ site.baseurl }}/images/brussel sprouts/sprouts 4.png)
 
 * Roast for ~12 minutes, toss, and roast for another ~12 minutes.
 
