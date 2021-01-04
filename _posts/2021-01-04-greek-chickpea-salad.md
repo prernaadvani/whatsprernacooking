@@ -8,7 +8,7 @@ image:
   thumbnail: /images/greek salad/salad 1.png
 ---
 
-A salad that needs no dressing (but I included it just in case you want one anyway)
+A salad that needs no dressing (but I included one just in case)
 
 ### Ingredients:
 
