@@ -30,7 +30,7 @@ Per 8 pieces -
 
 ### Instructions:
 
-* In a medium skillet, add the whole cherry tomatoes. On medium heat, let the tomatoes roast for ~8 minutes until the outside begins to brown slightly.
+* Lightly grease a medium non stick skillet and add the whole cherry tomatoes. On medium heat, let the tomatoes roast for ~8 minutes until the outside begins to brown slightly.
 
 ![_config.yml]({{ site.baseurl }}/images/bruschetta/bruschetta 1.png)
 
