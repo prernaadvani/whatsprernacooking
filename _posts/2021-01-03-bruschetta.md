@@ -25,7 +25,7 @@ Per 8 pieces -
 * 2 "everything but the bagel" ciabatta rolls, available at [Trader Joe's](https://www.traderjoes.com/digin/post/everything-ciabatta-rolls)
   - Feel free to substitute with other similar breads (ciabatta, baguette, etc)
 * 1/2 cup mozzarella cheese
-* handful of fresh basil, chopped
+* Handful of fresh basil, chopped
 
 
 ### Instructions:
