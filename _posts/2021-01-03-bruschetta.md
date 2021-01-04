@@ -44,7 +44,7 @@ Per 8 pieces -
 
 * Slice your bread - if you're using ciabatta rolls, split them open and slice each part into half (each roll should give you 4 bruschettas). Line a baking sheet with parchment paper and move your bread over there.
 
-* On your bread, spread a spoonful of tomato sauce followed by some mozzarella and basil.
+* On your bread, spread a spoonful of tomato sauce followed by some mozzarella and basil. You can sprinkle some more italian seasoning on top, if desired.
 
 ![_config.yml]({{ site.baseurl }}/images/bruschetta/bruschetta 3.png)
 ![_config.yml]({{ site.baseurl }}/images/bruschetta/bruschetta 4.png)
