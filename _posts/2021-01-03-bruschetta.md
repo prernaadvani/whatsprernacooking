@@ -36,7 +36,7 @@ Per 8 pieces -
 
 * When the tomatoes have cooked slightly, turn the heat down and add the olive oil and garlic. Pierce the tomatoes with a knife and mash down until you have a tomato sauce, of sorts. Let it simmer for ~10 minutes until the sauce has thickened.
 
-* Add the balsamic vinegar, butter, italian seasoning, salt, and pepper. Mix until the butter as melted and ingredients are well incorporated. Remove from heat and set aside.
+* Add the balsamic vinegar, butter, italian seasoning, salt, and pepper. Mix until the butter has melted and ingredients are well incorporated. Remove from heat and set aside.
 
 ![_config.yml]({{ site.baseurl }}/images/bruschetta/bruschetta 2.png)
 
