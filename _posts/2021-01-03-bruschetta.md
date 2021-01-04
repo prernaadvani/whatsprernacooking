@@ -21,6 +21,7 @@ Per 8 pieces -
 * 1 tablespoon butter
 * 1/2 teaspoon italian seasoning
 * salt, to taste
+* pepper, to taste
 * 2 "everything but the bagel" ciabatta rolls, available at [Trader Joe's](https://www.traderjoes.com/digin/post/everything-ciabatta-rolls)
   - Feel free to substitute with other similar breads (ciabatta, baguette, etc)
 * 1/2 cup mozzarella cheese
@@ -35,7 +36,7 @@ Per 8 pieces -
 
 * When the tomatoes have cooked slightly, turn the heat down and add the olive oil and garlic. Pierce the tomatoes with a knife and mash down until you have a tomato sauce, of sorts. Let it simmer for ~10 minutes until the sauce has thickened.
 
-* Add the balsamic vinegar, butter, italian seasoning, and salt. Mix until the butter as melted and ingredients are well incorporated. Remove from heat and set aside.
+* Add the balsamic vinegar, butter, italian seasoning, salt, and pepper. Mix until the butter as melted and ingredients are well incorporated. Remove from heat and set aside.
 
 ![_config.yml]({{ site.baseurl }}/images/bruschetta/bruschetta 2.png)
 
