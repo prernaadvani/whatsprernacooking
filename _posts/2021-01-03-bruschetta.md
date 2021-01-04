@@ -42,7 +42,7 @@ Per 8 pieces -
 
 * Preheat oven to 300 degrees.
 
-* Slice your bread - if you're using ciabatta rolls, split them open and slice each part into half (each roll should give you 4 bruschettas). 
+* Slice your bread - if you're using ciabatta rolls, split them open and slice each part into half (each roll should give you 4 bruschettas). Line a baking sheet with parchment paper and move your bread over there.
 
 * On your bread, spread a spoonful of tomato sauce followed by some mozzarella and basil.
 
