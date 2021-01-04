@@ -18,7 +18,7 @@ Makes about 12 bars -
 
 _For the crust:_
 
-* 2 cups graham cracket crumbs (I used [this one](https://www.kroger.com/p/keebler-graham-cracker-crumbs/0007891328002))
+* 2 cups graham cracker crumbs (I used [this one](https://www.kroger.com/p/keebler-graham-cracker-crumbs/0007891328002))
 * 2.5 teaspoons pumpkin pie spice (I used McCormick's)
 * 1/2 cup unsalted butter, melted
 
