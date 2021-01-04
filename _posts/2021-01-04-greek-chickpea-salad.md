@@ -21,8 +21,7 @@ _Per 4 servings:_
 * 1/2 cup black olives, pitted and sliced
 * 1/2 cup feta cheese
 * 2 teaspoons dried parsley
-* salt, to taste
-* pepper, to taste
+* 1 teaspoon 21 Seasoning Salute seasoning blend, from Trader Joe's (optional)
 
 _For the dressing:_
 * 2 tablespoons olive oil
