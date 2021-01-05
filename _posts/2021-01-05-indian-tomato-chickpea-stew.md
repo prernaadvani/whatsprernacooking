@@ -2,6 +2,7 @@
 title: "Indian Tomato Chickpea Stew"
 categories:
   - Indian
+  - Vegan
 image:
   path: /images/indian chickpea stew/stew 2.png
   thumbnail: /images/indian chickpea stew/stew 1.png
