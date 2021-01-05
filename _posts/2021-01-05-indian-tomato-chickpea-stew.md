@@ -1,7 +1,7 @@
 ---
 title: "Indian Tomato Chickpea Stew"
 categories:
-  - Breakfast
+  - Indian
 image:
   path: /images/indian chickpea stew/stew 2.png
   thumbnail: /images/indian chickpea stew/stew 1.png
