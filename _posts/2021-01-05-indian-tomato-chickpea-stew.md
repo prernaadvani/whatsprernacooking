@@ -8,7 +8,7 @@ image:
   thumbnail: /images/indian chickpea stew/stew 1.png
 ---
 
-One of my first indian stew attempts without a recipe.
+One of my first indian stew attempts following my heart and not a recipe.
 
 ### Ingredients:
 
