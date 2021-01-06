@@ -25,7 +25,7 @@ Per 3-4 servings:
 * 2 teaspoons onion powder⠀
 * salt, to taste
 * pepper, to taste
-* 1/2 green bell pepper, chopped
+* 1/2 green bell pepper, diced
 * 1 cup mexican corn (I used [this one](https://www.kroger.com/p/green-giant-mexicorn/0002000010453))
 * 1 15-oz can chickpeas, drained and rinsed
 * 1 can coconut milk 
