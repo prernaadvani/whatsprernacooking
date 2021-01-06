@@ -15,7 +15,7 @@ One of my first indian stew attempts without a recipe.
 Per 3-4 servings:
 
 * 1 tablespoon olive or avocado oil
-* 1/2 pint cherry tomatoes
+* 1/2 pint cherry tomatoes, cut in half
 * 4 oz tomato sauce 
 * 2 oz tomato paste 
 * 3 teaspoons minced garlic 
