@@ -1,49 +1,53 @@
+
 ---
 layout: default
-disqus: true
-post_class: post-template
 ---
+	
 
-<div class="entry-header">
-    <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
-    {% assign author = site.authors[page.author] %}
-    {% if page.author %}
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            {% if author.avatar %}
-            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-            {% endif %}
-        </div>            
-        <div>
-        Written by <a target="_blank" class="text-dark" href="{{ author.web }}">{{ author.display_name }}</a> on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+<main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    {% include page-image.html %}
+    <div class="page-wrapper">
+      <header class="page-header">
+        {% assign title = page.title | markdownify | strip_html %}
+        {% if page.link %}
+          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+        {% else %}
+          <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
-        </div>            
+      </header>
+
+
+      <div class="page-sidebar">
+        {% include page-author.html %}
+        {% include page-categories.html %}
+        {% include page-tags.html %}
+      </div>
+
+
+      <div class="page-content">
+        <div class="e-content">
+          {{ content }}
+          <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+        </div>
+
+
+        {% if page.share %}
+          {% include social-share.html %}
+        {% endif %}
+
+
+        {% if site.disqus.shortname %}
+          {% include disqus-comments.html %}
+        {% endif %}
+        
+        {% include related-posts.html %}
+
+
+        {% include page-pagination.html %}
+      </div>
     </div>
-    {% endif %}
-</div>
+  </article>
+</main>
 
-<!-- Featured Image -->
-{% include featured-image.html %}
-
-<!-- Content -->
-{% include article.html %}
-
-<!-- Author Box if enabled from _config.yml -->
-{% include author-box.html %}
-
-<!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
-
-<!-- Share -->
-{% include share.html %}
-
-<!-- Related Post -->
-{% include related-posts.html %}
 
