@@ -41,7 +41,7 @@ _Personally, I find this bread pudding to be fairly heavy and rich, which is why
 
 * Place a small-medium saucepan over medium heat, and add the heavy cream and milk. Carefully watch the pot until you get to a simmer, and then take it off the heat. Make sure that it does not come to a rapid boil, and if it does, take it off the heat and give it a few minutes to cool down first.
 
-* Place broken semi-sweet chocolate pieces in a medium bowl, and pour the milk/cream mixture over the chocolate. Let it sit for a few minutes until the chocolate has melted, and then stir. Set aside to cool for a few minutes.
+* Place broken semi-sweet chocolate pieces in a medium bowl and pour the milk/cream mixture over the chocolate. Let it sit for a few minutes until the chocolate has melted, and then stir. Set aside to cool for a few minutes.
 
 * In a large bowl, add the eggs, sugar, vanilla extract, and salt. Mix until all of the ingredients are incorporated. Pour the chocolate mixture in, and using a whisk, mix until smooth. Next, divide this mixture into two equal parts.
 
@@ -51,7 +51,7 @@ _Personally, I find this bread pudding to be fairly heavy and rich, which is why
 
 * Spread the chocolate covered bread evenly in your pan(s). Pour the bowl of chocolate custard on top of the bread. If you're using two 8x8 pans, split the mixture into two and then pour one of them into each pan. 
 
-* Sprinkle a some chocolate chips on top of your bread(s).
+* Sprinkle some chocolate chips on top of your bread(s).
 
 ![_config.yml]({{ site.baseurl }}/images/dark chocolate bread pudding/pudding 3.png)
 
