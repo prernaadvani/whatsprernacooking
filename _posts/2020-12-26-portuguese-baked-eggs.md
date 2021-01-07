@@ -16,9 +16,9 @@ The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/
 Per 1-2 servings:
 
 * 1 tablespoon olive or avocado oil
-* 1/2 green bell pepper, cut lengthwise and halfved
-* 1/2 red bell pepper, cut lengthwise and halfved
-* 1/2 red or white onion, cut lengthwise and halfved (I switch between red and white depending on what I have on hand)
+* 1/2 green bell pepper, cut lengthwise and halved
+* 1/2 red bell pepper, cut lengthwise and halved
+* 1/2 red or white onion, cut lengthwise and halved (I switch between red and white depending on what I have on hand)
 * 1 beefsteak tomato, diced
 * 4 garlic cloves
 * 1/4 tablespoon jalapeno (I used jalapeno paste)
@@ -48,5 +48,5 @@ Per 1-2 servings:
 
 ![_config.yml]({{ site.baseurl }}/images/baked eggs/eggs 3.png)
 
-* Pour the mixture out of the foil/baking dish and into a bowl, and serve with toasted bread.
+* Pour the mixture out of the foil/baking dish and into a bowl and serve with toasted bread.
 
