@@ -31,15 +31,15 @@ Per 2 medium challahs -
 
 ![_config.yml]({{ site.baseurl }}/images/chocolate chip challah/challah 2.png)
 
-* In another medium sized bowl, add 1 egg, the rest of the sugar, oil, and salt. Once mixed and fully incorporated, gradually add 2 cups of flour, stirring continuously. 
+* In another medium sized bowl, add 1 egg, the rest of the sugar, oil, and salt. Once mixed and fully incorporated, gradually add 2 cups of flour, mixing continuously. 
 
 ![_config.yml]({{ site.baseurl }}/images/chocolate chip challah/challah 1.png)
 
-* Add the activated yeast mixture to the flour mixture and mix. Add the remaining 1.75 cups of flour and knead in the bowl.
+* Add the activated yeast mixture to the flour mixture and combine. Add the remaining 1.75 cups of flour and knead in the bowl.
 
-* Lightly flour a clean surface and continue kneading for ~5 minutes. The dough should not be very sticky, anf if it is, add some more flour and knead again. 
+* Lightly flour a clean surface, move the dough over, and continue kneading for ~5 minutes. The dough should not be very sticky, and if it is, add some more flour and knead again. 
 
-* Lightly grease a medium bowl and flip the dough once to make sure that the oil covers the whole dough. Cover the mixing bowl with a cloth, and let it rise in a warm area for 1.5-2 hours. For the warm area, you can put it by a window if it's sunny out. Alternatively, you can preheat the oven to 200 degrees, turn it off once it preheats, put the mixing bowl with the dough in there, and leave the oven door slightly open.
+* Lightly grease a medium bowl and flip the dough once to make sure that the oil covers the whole dough. Cover the mixing bowl with a cloth and let it rise in a warm area for 1.5-2 hours. For the warm area, you can put it by a window if it's sunny out. Alternatively, you can preheat the oven to 200 degrees, turn it off once it preheats, put the mixing bowl with the dough in there, and leave the oven door slightly open.
 
 * After the dough has risen, deflate it bring it to a lightly floured surface. Knead again for ~5 minutes and reshape into a ball.
 
