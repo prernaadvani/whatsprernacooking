@@ -38,7 +38,7 @@ Per 3-4 servings:
 
 * Add the bell pepper, corn, chickpeas, and coconut milk. Mix and cook on a low simmer for ~10 minutes until the sauce has thickened.
 
-* Add the spinach and continue cooking and stiring until it has wilted, which will take a few minutes. 
+* Add the spinach and continue cooking and stirring until it has wilted, which will take a few minutes. 
 
 ![_config.yml]({{ site.baseurl }}/images/indian chickpea stew/stew 3.png)
 
