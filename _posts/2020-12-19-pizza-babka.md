@@ -18,7 +18,7 @@ Per 5-6 servings -
 
 _For the bread:_
 
-* 1 (2.25 teaspooon) package active dry yeast 
+* 1 (2.25 teaspoon) package active dry yeast 
 * 1.5 cups warm water (I put it in the microwave on high for 30 seconds)
 * 3.5 cups all-purpose flour (plus a little extra to bring it to the right consistency, if needed)
 * 1/3 cup olive oil (plus extra to oil the surface, about 2 tablespoons)
