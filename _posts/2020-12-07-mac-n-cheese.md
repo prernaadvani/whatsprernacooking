@@ -10,7 +10,7 @@ image:
 ---
 
 
-Kicking off this recipe website with my one true love and something I could undoubtedly eat everyday for the rest of my life.
+Kicking off this recipe website with my one true love and something I could undoubtedly eat every day for the rest of my life.
 
 The recipe that I used is adapted from [Bon Appetit](https://www.bonappetit.com/recipe/mac-n-cheese)
 
@@ -38,13 +38,13 @@ Makes about 8 servings-
 
 ### Instructions:
 
-* Cook 12 oz pasta (about 3/4 of a standard box) according to directions until al dente, and then drain it. You can leave it in the collander or move it to a bowl.
+* Cook 12 oz pasta (about 3/4 of a standard box) according to directions until al dente, and then drain it. You can leave it in the colander or move it to a bowl.
 
 * While the pasta cooks, melt 2 tbsp of butter in a small skillet. Once melted, add the italian breadcrumbs and stir until darkened (~5 minutes on medium heat). Move to a bowl.
 
 ![_config.yml]({{ site.baseurl }}/images/mac n cheese/mac n cheese 2.png)
 
-* Melt the remaining 3 tablespoons of butter in a large saucepan. Once melted, add garlic and stir for about a minute. Next, add the flour and stir until the consistency is completely smooth, and then continue stirring for a minute. Very gradually, begin adding the milk (and half and half and/or cream, if using) and stir well after every addition. I like to start by adding about 1/4 cup of milk at first, mixing until all the clumps are gone, and then slowly increasing the quantity of milk being added until all 3.5 cups are incorporated and there are no clumps. Continute stirring until the sauce thickens slightly, about 5-8 minutes.
+* Melt the remaining 3 tablespoons of butter in a large saucepan. Once melted, add garlic and stir for about a minute. Next, add the flour and stir until the consistency is completely smooth, and then continue stirring for a minute. Very gradually, begin adding the milk (and half and half and/or cream, if using) and stir well after every addition. I like to start by adding about 1/4 cup of milk at first, mixing until all the clumps are gone, and then slowly increasing the quantity of milk being added until all 3.5 cups are incorporated and there are no clumps. Continue stirring until the sauce thickens slightly, about 5-8 minutes.
 
 * Pre-heat oven to 350 degrees.
 
