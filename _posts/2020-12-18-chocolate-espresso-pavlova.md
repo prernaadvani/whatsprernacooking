@@ -48,7 +48,7 @@ _For the topping:_
 
 * Preheat oven to 300 degrees.
 
-* We start by making the base of the pavlova. In a medium-large mixing bowl, add the egg whites and the salt. Using an electric mixer with a whisk attahment, beat the mixture until it's light and foamy, about a minute or two. 
+* We start by making the base of the pavlova. In a medium-large mixing bowl, add the egg whites and the salt. Using an electric mixer with a whisk attachment, beat the mixture until it's light and foamy, about a minute or two. 
 
 ![_config.yml]({{ site.baseurl }}/images/pavlova/pavlova 01.png)
 
