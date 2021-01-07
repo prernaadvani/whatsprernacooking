@@ -40,7 +40,7 @@ Makes about 8-10 falafels -
 
 * In a medium sized mixing bowl, add chickpeas, red onion, garlic, parsley, mint, salt, 1/4 cup panko, 1 tablespoon of avocado oil, juice of lemon, cumin, coriander, cayenne (if using), paprika (if using), and cilantro (if using). Using a potato masher, mash everything together until you get a mostly smooth consistency, with the occasional chickpea chunk. 
 
-* Add the flour, and mix until incorporated.
+* Add the flour and mix until incorporated.
 
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 2.png)
 
@@ -56,7 +56,7 @@ Makes about 8-10 falafels -
 
 * Stop here if you would like true baked falafel. If you're like me and like them with a little more crisp in them, continue reading.
 
-* On small-medium skillet, heat the remaining 3 tablespoons of oil. Add the falafel, and cook for a few minutes until they brown a little. Once you reach desired crispiness, flip the falafel and repeat. 
+* On small-medium skillet, heat the remaining 3 tablespoons of oil. Add the falafel and cook for a few minutes until they brown a little. Once you reach desired crispiness, flip the falafel and repeat. 
 
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 4.png)
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 5.png)
