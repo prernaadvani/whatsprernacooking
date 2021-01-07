@@ -16,7 +16,7 @@ The recipe that I used is adapted from [Tasty](https://tasty.co/recipe/best-pull
 Per 2 medium challahs - 
 
 * 3/4 cup warm water (I microwaved it for 30 seconds)
-* 1 (2.25 teaspooon) package active dry yeast
+* 1 (2.25 teaspoon) package active dry yeast
 * 1/2 cup granulated sugar
 * 2 eggs (1 for the bread, 1 for the egg wash)
 * 2.5 tablespoons olive oil
@@ -59,7 +59,7 @@ Per 2 medium challahs -
 
 * Lightly grease a baking sheet and move challah over there.
 
-* Apply the egg wash - in a small bowl, beat one egg and use a pastry brush to apply it to the top of each challah bread. You will have a lot of egg wash remaining - I made a quick omelette it to prevent waste.
+* Apply the egg wash - in a small bowl, beat one egg and use a pastry brush to apply it to the top of each challah bread. You will have a lot of egg wash remaining - I made a quick omelet it to prevent waste.
 
 * Add some chocolate chips to each of the two challah braids.
 
