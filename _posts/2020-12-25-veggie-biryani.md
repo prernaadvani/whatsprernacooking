@@ -73,7 +73,7 @@ After
 
 * Make the ginger garlic paste by adding the minced ginger, garlic, and jalapeno to a small bowl and then mixing. Set aside.
 
-* Time for round 2 of vegetable cooking! Heat the last tablespoon of oil in a large pan. Add the cumin, cinnamon, nutmeg, bay leaf/leaves, salt (to taste), pepper (to taste), and 2 teaspoons cloves. After the spices are sizzling, add the giner garlic paste. Cook for a minute or two.
+* Time for round 2 of vegetable cooking! Heat the last tablespoon of oil in a large pan. Add the cumin, cinnamon, nutmeg, bay leaf/leaves, salt (to taste), pepper (to taste), and 2 teaspoons cloves. After the spices are sizzling, add the ginger garlic paste. Cook for a minute or two.
 
 * Briefly remove the pan from heat, add the yogurt, and mix until incorporated. Return the pan to heat, and add all of the vegetables. Mix them with the spices.
 
