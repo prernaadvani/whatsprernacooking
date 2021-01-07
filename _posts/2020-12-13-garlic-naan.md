@@ -17,7 +17,7 @@ _Per 8 naan:_
 
 * 1 cup warm water (I put it in the microwave on high for 30 seconds)
 * 2 tablespoons honey (in a pinch, you can substitute with maple syrup)
-* 1 (2.25 teaspooon) package active dry yeast 
+* 1 (2.25 teaspoon) package active dry yeast 
 * 3.5 cups all-purpose flour (plus extra to flour the surface, and you may need some more to bring it to the right consistency if needed too)
 * 1/4 cup plain yogurt 
 * 2 teaspoons fine sea salt
@@ -33,11 +33,11 @@ _For the garlic butter:_
 
 ### Instructions:
 
-* Yeast activation! In a medium sized mixing bowl, mix the warm water and the honey, and then add the packet of yeast and mix again. Cover with a cloth and let the yeast activate for about 10 minutes. If the mixture isn't foamy at this point, your yeast may be dead and I would suggest replacing it and re-doing this step.
+* Yeast activation! In a medium sized mixing bowl, mix the warm water and the honey, and then add the packet of yeast and mix again. Cover with a cloth and let the yeast activate for about 10 minutes. If the mixture isn't foamy at this point, your yeast may be dead, and I would suggest replacing it and re-doing this step.
 
 * Uncover the yeast mixture and add flour, yogurt, salt, baking powder, and egg. Mix in the bowl for a minute or two until all of the ingredients are incorporated. 
 
-* Lightly flour a clean surface, and move the dough over there. Knead for a few minutes and make sure the dough is the right consistency - it should be a little sticky, but not unmanagably sticky. I have had to add up to an additional 1/2 cup of flour in this step to get the dough to become less liquid. The way that I test this is by shaping the dough into a ball and rolling it in circles - if the dough is sticking to the surface and separating as you roll, it's too sticky. It might stick to the surface a little bit, but it shouldn't separate. When your dough is ready to go, shape it into a ball.  
+* Lightly flour a clean surface and move the dough over there. Knead for a few minutes and make sure the dough is the right consistency - it should be a little sticky, but not unmanageably sticky. I have had to add up to an additional 1/2 cup of flour in this step to get the dough to become less liquid. The way that I test this is by shaping the dough into a ball and rolling it in circles - if the dough is sticking to the surface and separating as you roll, it's too sticky. It might stick to the surface a little bit, but it shouldn't separate. When your dough is ready to go, shape it into a ball.  
 
 * Grease a large clean mixing bowl and move the dough over here. Flip the dough once to make sure that the oil covers the whole dough, cover the mixing bowl with a cloth, and let it rise in a warm area for 1-1.5 hours. For the warm area, you can put it by a window if it's sunny out. Alternatively, you can preheat the oven to 200 degrees, turn it off once it preheats, put the mixing bowl with the dough in there, and leave the oven door slightly open.
 
@@ -55,7 +55,7 @@ Is there anything more satisfying than deflating a risen ball of dough?
 
 ![_config.yml]({{ site.baseurl }}/images/garlic naan/garlic naan 10.png)
 
-* Ready to roll and go! Sprinkle a little bit of flour on the top of one of the divided dough balls, and use a rolling pin to roll it out to an oval-rectangular shape. Lightly sprinking with flour before rolling prevents the dough from sticking to the pin. 
+* Ready to roll and go! Sprinkle a little bit of flour on the top of one of the divided dough balls, and use a rolling pin to roll it out to an oval-rectangular shape. Lightly sprinkling with flour before rolling prevents the dough from sticking to the pin. 
 
 ![_config.yml]({{ site.baseurl }}/images/garlic naan/naan 4.png)
 
