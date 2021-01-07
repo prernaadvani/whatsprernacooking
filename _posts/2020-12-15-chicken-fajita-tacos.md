@@ -18,7 +18,7 @@ Sharing my dad's recipe - to make this the way that he does, buy chicken breasts
 _Per two tacos:_
 
 * 1/4 red bell pepper, cut lengthwise
-* 1/4 green bell papper, cut lengthwise
+* 1/4 green bell pepper, cut lengthwise
 * 1/4 onion, cut lengthwise
 * 2 tablespoons taco seasoning (I use [this one](https://www.kroger.com/p/kroger-original-taco-seasoning/0001111071503))
 * 5-6 small fully cooked chicken fajita strips (I use [this one](https://www.kroger.com/p/tyson-grilled-ready-fully-cooked-fajita-chicken-strips/0002370001628))
