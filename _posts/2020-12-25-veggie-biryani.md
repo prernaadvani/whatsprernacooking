@@ -9,7 +9,7 @@ image:
   thumbnail: /images/veggie biryani/biryani 1.png
 ---
 
-Paying homage to my Indian roots with this one.
+My first attempt at biryani with ingredients that I pretty much already had in the kitchen!
 
 The recipe that I used is adapted from [Cooking With Manali](https://www.cookwithmanali.com/restaurant-style-vegetable-biryani/#wprm-recipe-container-44535)
 
