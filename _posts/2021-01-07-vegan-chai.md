@@ -10,7 +10,7 @@ image:
   thumbnail: /images/chai/chai 1.png
 ---
 
-Also known as masala chai, this drink is a staple of Mumbai (where I grew up).
+Also known as masala chai, this drink is a staple of Mumbai (where I spent most of my childhood).
 
 Sharing my mother's recipe! 
 
