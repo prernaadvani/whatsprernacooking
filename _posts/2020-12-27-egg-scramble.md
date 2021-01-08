@@ -2,6 +2,7 @@
 title: "Egg Scramble"
 categories:
   - Breakfast
+  - Family Recipes
 image:
   path: /images/egg scramble/eggs 2.png
   thumbnail: /images/egg scramble/eggs 1.png
