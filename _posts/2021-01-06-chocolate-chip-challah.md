@@ -13,7 +13,7 @@ The recipe that I used is adapted from [Tasty](https://tasty.co/recipe/best-pull
 
 ### Ingredients:
 
-Per 2 medium challahs - 
+_Per 2 medium challahs:_ 
 
 * 3/4 cup warm water (I microwaved it for 30 seconds)
 * 1 (2.25 teaspoon) package active dry yeast
