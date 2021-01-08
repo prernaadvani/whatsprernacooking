@@ -4,6 +4,7 @@ categories:
   - Vegan
   - Beverages
   - Family Recipes
+  - Indian
 image:
   path: /images/chai/chai 2.png
   thumbnail: /images/chai/chai 1.png
