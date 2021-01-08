@@ -9,7 +9,7 @@ image:
   thumbnail: /images/chai/chai 1.png
 ---
 
-Also known as masala chai, this drink is a staple of most Indian households.
+Also known as masala chai, this drink is a staple of Mumbai (where I grew up).
 
 Sharing my mother's recipe! 
 
@@ -18,6 +18,7 @@ Sharing my mother's recipe!
 _Per cup:_ 
 
 * 3/4 cup water
+* 1–2 tablespoons loose leaf black tea
 * Pinch of ground cardamom
 * 2 mint leaves
 * 1/4 inch ginger, roughly chopped (substitute with pinch of ginger powder)
