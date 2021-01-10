@@ -3,8 +3,8 @@ title: "Pesto Cream Gnocchi"
 categories:
   - Italian
 image:
-  path: /images/pesto cream gnocchi/gnocchi 3.png
-  thumbnail: /images/pesto cream gnocchi/gnocchi 4.png
+  path: /images/pesto cream gnocchi/gnocchi 4.png
+  thumbnail: /images/pesto cream gnocchi/gnocchi 3.png
 ---
 
 Whoever decided to combine pasta and potatoes had the right idea.
