@@ -9,7 +9,7 @@ url: #http://prernaadvani.github.io
 logo: /images/WPC Logo.png
 date_format: "%B %-d, %Y"
 future: false
-timezone: America/New_York
+timezone: 
 
 google_fonts:
   - name: "Source Sans Pro"
