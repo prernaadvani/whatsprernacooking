@@ -24,13 +24,7 @@ _Per bowl:_
 * 1/4 cup diced tomatoes (a handful of diced cherry tomatoes should do the trick)
   - Alternatively, you can use 1/2 cup balela salad instead of the tomato and red onion (recommended, available at Trader Joe's or you can make it yourself)
 * 1/4 cup hummus (store bought, or you can make your own. I like using the tabbouleh style hummus from Trader Joe's)
-* tzatziki: (note: makes enough for about 4 bowls)
-  - 1 cup greek yogurt
-  - 1 persian cucumber, diced or minced (or use 3/4 if you love cucumbers a little less than I do. Peeling the cucumber is optional)
-  - 1 tablespoon olive oil
-  - 2 teaspoons minced garlic
-  - salt, to taste
-  - pepper, to taste
+* 1 serving tzatziki (1/4 recipe - link available [here](https://prernaadvani.github.io/mediterranean/sides/tzatziki/))
 * feta, as garnish
 * parsley, as garnish
 * fresh cilantro and/or mint, as garnish (optional)
@@ -45,10 +39,6 @@ _For my vegan readers: skip the tzatziki, feta, and make sure that the pesto you
 ![_config.yml]({{ site.baseurl }}/images/falafel bowl/falafel bowl 2.png)
 
 * In a small bowl, add the rice and pesto and mix.
-
-* In another small bowl, combine all of the ingredients for the tzatziki and mix.
-
-![_config.yml]({{ site.baseurl }}/images/falafel bowl/falafel bowl 3.png)
 
 * Assemble! You can create a layered bowl:
 
