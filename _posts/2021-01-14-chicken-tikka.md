@@ -10,7 +10,7 @@ image:
 ---
 
 
-For my fellow grillers that enjoy an adequate amount of spice.
+For my fellow grillers that enjoy Indian spices!
 
 Sharing my parent's recipe - thank you, parents!
 
