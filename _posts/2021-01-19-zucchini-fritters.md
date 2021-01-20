@@ -4,8 +4,8 @@ categories:
   - Sides
   - Vegetables
 image:
-  path: /images/fritters/fritter 7.png
-  thumbnail: /images/fritters/fritter 8.png
+  path: /images/fritters/fritters 7.png
+  thumbnail: /images/fritters/fritters 8.png
 ---
 
 The hardest thing about this recipe is grating the zucchini and it comes together so very quickly. 
@@ -35,20 +35,20 @@ _Per 6 fritters:_
 
 * Place your shredded zucchini in a kitchen towel and sprinkle the salt over the zucchini. Let it sit for ~10 minutes, and then squeeze out as much liquid as possible using the kitchen towel. 
 
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 1.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 1.png)
 
 * Transfer the zucchini to a small mixing bowl, and then add the egg, flour, parmesan, and seasonings. Mix until well incorporated.
 
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 2.png)
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 3.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 2.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 3.png)
 
 * Heat the oil in a large nonstick skillet. Divide the zucchini mixture into 6 equal parts and begin shaping one of them into a circle or oval. Dust the top and bottom with breadcrumbs and then set on the oil to cook. Repeat with the remaining 5 parts of zucchini mixture and cook all of them until golden brown on the bottom. Then, flip them and cook the other side.
 
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 4.png)
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 5.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 4.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 5.png)
 
 * Once the fritters have fully cooked, place them on a layer of napkins to soak up any extra oil and prevent a greasy taste.
 
-![_config.yml]({{ site.baseurl }}/images/fritters/fritter 6.png)
+![_config.yml]({{ site.baseurl }}/images/fritters/fritters 6.png)
 
 * Serve with tzatziki (highly recommended) or any other dip of choice.
