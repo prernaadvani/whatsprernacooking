@@ -10,7 +10,7 @@ image:
 
 There's no bad way to eat a potato but this one is the best.
 
-The recipe that I used is adapted from [Gimme Some Oven](https://www.gimmesomeoven.com/best-mashed-potatoes-recipe/#tasty-recipes-60055))
+The recipe that I used is adapted from [Gimme Some Oven](https://www.gimmesomeoven.com/best-mashed-potatoes-recipe/#tasty-recipes-60055).
 
 ### Ingredients:
 
