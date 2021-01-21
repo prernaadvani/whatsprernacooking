@@ -7,7 +7,7 @@ image:
   thumbnail: /images/carrot cake/cake 12.png
 ---
 
-A lovely cake, spice, and carrot combination.
+A lovely cake, spice, and carrot combination. (Apologies for the messy picture - forgot to take a clean one after slicing the cake)
 
 The recipe that I used is adapted from [Sally's Baking Addiction](https://sallysbakingaddiction.com/my-favorite-carrot-cake-recipe/#tasty-recipes-69458)
 
