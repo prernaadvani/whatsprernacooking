@@ -1,5 +1,5 @@
 ---
-title: "Indian Black Chickpea Salad ("Kala Channa")"
+title: "Indian Black Chickpea Salad (Kala Channa)"
 categories:
   - Indian
   - Vegan
