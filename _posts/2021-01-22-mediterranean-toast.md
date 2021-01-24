@@ -18,6 +18,7 @@ Perfect for when you want to change things up from the usual avocado toast!
 * 3/4 persian cucumber, sliced and quartered
 * 4-5 cherry tomatoes, quartered
 * 2 tablespoons red onions, diced or minced
+* small handful of black olives, pitted and sliced
 * 1-2 tablespoons feta or goat cheese
 * 1 teaspoon parsley, as garnish (optional)
 * pinch of cayenne, as garnish (optional)
