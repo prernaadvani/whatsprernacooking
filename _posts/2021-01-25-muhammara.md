@@ -36,7 +36,7 @@ _Per 1 cup muhammara (double or triple the recipe - this quantity is more of a s
 
 ![_config.yml]({{ site.baseurl }}/images/muhammara/muhammara 1.png)
 
-* Transfer the peppers to a sealed bag (or a small bowl with plastic wrap on top). Let them cook completely, and then peel the skins, cut the stems, and deseed.
+* Transfer the peppers to a sealed bag (or a small bowl with plastic wrap on top). Let them cool completely, and then peel the skins, cut the stems, and deseed.
 
 * Combine the walnuts and breadcrumbs in a food processor and pulse until you arrive at a somewhat coarse, cornmeal like texture.
 
