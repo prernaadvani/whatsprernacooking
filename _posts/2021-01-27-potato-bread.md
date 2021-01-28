@@ -72,7 +72,7 @@ _For the dough:_
 
 ![_config.yml]({{ site.baseurl }}/images/potato bread/bread 5.png)
 
-* Lightly grease a non stick pan and place the rolled out potato bread. Let it cook for a minute or two, and then flip to cook the other side for another minute or two. Flip one more time, and add 1/2 teaspoon of oil around the edges of the tortilla and press down with a spatula. Flip one last time, and add a little more oil if needed. Let it cook for a minute and place into a plate when cooked.
+* Lightly grease a non stick pan and place the rolled out potato bread. Let it cook for a minute or two, and then flip to cook the other side for another minute or two. Flip one more time, and add 1/2 teaspoon of oil around the edges of the bread and press down with a spatula. Flip one last time, and add a little more oil if needed. Let it cook for a minute and place into a plate when cooked.
 
 ![_config.yml]({{ site.baseurl }}/images/potato bread/bread 6.png)
 
