@@ -3,7 +3,6 @@ title: "Potato Bread (Aloo Paratha)"
 categories:
   - Indian
   - Vegan
-  - Sides
   - Bread
   - Family Recipes
 image:
