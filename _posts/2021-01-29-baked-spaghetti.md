@@ -2,6 +2,7 @@
 title: "Baked Spaghetti"
 categories:
   - Italian
+  - Pasta
 image:
   path: /images/baked spaghetti/pasta 4.png
   thumbnail: /images/baked spaghetti/pasta 3.png
