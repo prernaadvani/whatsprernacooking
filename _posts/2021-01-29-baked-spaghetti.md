@@ -32,8 +32,8 @@ _Per 4-5 servings:_
 
 * Melt the butter in a pot, and then add the bell peppers. Cook for a few minutes until softened, and then add the spinach to wilt. 
 
-![_config.yml]({{ site.baseurl }}/images/baked spaghetti/pasta 1.png)
 ![_config.yml]({{ site.baseurl }}/images/baked spaghetti/pasta 2.png)
+![_config.yml]({{ site.baseurl }}/images/baked spaghetti/pasta 1.png)
 
 * Add the marinara sauce to the vegetables along with the cooked spaghetti. Mix, and remove from heat.
 
