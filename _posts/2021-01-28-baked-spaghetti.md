@@ -8,7 +8,7 @@ image:
   thumbnail: /images/baked spaghetti/pasta 3.png
 ---
 
-Adding one more step to your normal spaghetti routine for a casserole-like dish!
+Add one more step to your normal spaghetti routine for a casserole-like dish!
 
 ### Ingredients:
 
