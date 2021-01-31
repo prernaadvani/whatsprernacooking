@@ -31,8 +31,8 @@ _Per two tacos:_
 
 * Cook fish sticks according to directions on package.
 
-* In the meantime, warm your tortillas. I like to do this by bending the tortillas into the shape of a taco and putting it in the toaster for a minute or two. Alternatively, you can also heat it on the stove. Once heated, set them out on a plate.
+* In the meantime, warm your tortillas. I like to do this by bending the tortillas into the shape of a taco and putting it in the toaster for a minute or two. Alternatively, you can eat it on the stove. Once heated, set them out on a plate.
 
-* Place two fish sticks in each tortilla, followed by the balela salad, cheese, sauce, and garnishments. Enjoy!
+* Place two fish sticks in each tortilla, followed by the balela salad, cheese, sauce, lemon juice (if using) and cilantro (if using). Enjoy!
 
 
