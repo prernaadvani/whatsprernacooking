@@ -37,7 +37,7 @@ Ingredients listed are for the ideal avocado toast, with substitution options.
 
 * On a plate, place the two slices of bread. If you're using cream cheese, layer it onto the toasted bread. Add the mashed avocado, pepita salsa, feta/goat cheese, and seasoning in this order. Enjoy!
 
-* Image at the top is made with:
+* Image in the header is made with:
   - Whole wheat bread
   - 1 ripe avocado
   - 2 tablespoons feta
