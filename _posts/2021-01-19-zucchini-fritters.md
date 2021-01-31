@@ -8,7 +8,7 @@ image:
   thumbnail: /images/fritters/fritters 8.png
 ---
 
-The hardest thing about this recipe is grating the zucchini and it comes together so very quickly. 
+The hardest thing about this recipe is grating the zucchini, so anyone can make this with ease!
 
 The recipe that I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/zucchini-fritters/#wprm-recipe-container-25172).
 
