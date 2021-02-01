@@ -9,7 +9,7 @@ image:
   thumbnail: /images/kada prasad/prasad 6.png
 ---
 
-This dessert is traditionally taken to the temple as an offering or consumed at religious events. It is also the only indian dessert that I randomly crave on occasion - my mom made quite often growing up. 
+This dessert is traditionally taken to the temple as an offering or consumed at religious events. It is also the only indian dessert that I randomly crave on occasion.
 
 Only 5 ingredients, and one of them is water!
 
