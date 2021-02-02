@@ -3,6 +3,7 @@ title: "Summer Salad"
 categories:
   - Vegan
   - Sides
+  - Salads
 image:
   path: /images/summer salad/salad 9.png
   thumbnail: /images/summer salad/salad 8.png
