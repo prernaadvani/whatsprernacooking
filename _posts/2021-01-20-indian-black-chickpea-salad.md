@@ -5,6 +5,7 @@ categories:
   - Vegan
   - Sides
   - Family Recipes
+  - Salad/Salad-ish
 image:
   path: /images/black chickpea salad/chickpea 4.png
   thumbnail: /images/black chickpea salad/chickpea 3.png
