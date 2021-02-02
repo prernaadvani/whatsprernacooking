@@ -2,7 +2,6 @@
 title: "Veggie Burrito Bowl"
 categories:
   - Mexican
-  - Vegetables
 image:
   path: /images/burrito bowl/bowl 2.png
   thumbnail: /images/burrito bowl/bowl 1.png
