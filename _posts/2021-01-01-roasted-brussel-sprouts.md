@@ -1,7 +1,6 @@
 ---
 title: "Roasted Brussel Sprouts"
 categories:
-  - Vegetables
   - Sides
   - Vegan
 image:
