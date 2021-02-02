@@ -3,6 +3,7 @@ title: "Greek Chickpea Salad"
 categories:
   - Mediterranean
   - Sides
+  - Salad/Salad-ish
 image:
   path: /images/greek salad/salad 2.png
   thumbnail: /images/greek salad/salad 1.png
