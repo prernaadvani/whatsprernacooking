@@ -3,6 +3,7 @@ title: "Egg Drop Soup"
 categories:
   - Asian
   - Sides
+  - Soups
 image:
   path: /images/egg drop soup/soup 7.png
   thumbnail: /images/egg drop soup/soup 6.png
