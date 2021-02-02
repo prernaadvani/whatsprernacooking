@@ -2,7 +2,6 @@
 title: "Zucchini Fritters"
 categories:
   - Sides
-  - Vegetables
 image:
   path: /images/fritters/fritters 7.png
   thumbnail: /images/fritters/fritters 8.png
