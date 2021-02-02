@@ -2,7 +2,6 @@
 title: "Veggie Lasagna"
 categories:
   - Italian
-  - Vegetables
   - Pasta
 image:
   path: /images/veggie lasagna/lasagna 2.png
