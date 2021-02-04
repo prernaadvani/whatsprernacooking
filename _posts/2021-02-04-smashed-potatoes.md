@@ -2,6 +2,7 @@
 title: "Roasted Smashed Potatoes"
 categories:
   - Sides
+  - Vegan
 image:
   path: /images/smashed potatoes/potato 8.png
   thumbnail: /images/smashed potatoes/potato 7.png
