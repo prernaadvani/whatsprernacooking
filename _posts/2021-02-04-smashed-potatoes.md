@@ -11,7 +11,7 @@ Interchangeable with french fries or breakfast potatoes!
 
 ### Ingredients:
 
-Per 3-4 servings.
+Per 3-4 servings:
 
 * 1 lb baby potatoes
 * 3 tablespoons olive oil
