@@ -42,4 +42,4 @@ _Per 6-8 servings:_
 
 * Continue stirring until it thickens a little bit more and then fish out the cardamom pods to discard. (One of my least favorite feelings is accidentally trying to eat one of these)
 
-* Transfer to a bowl and garnish with chopped pecans (or other nuts of choice). Enjoy!
+* Transfer to a bowl and garnish with chopped pecans (or other nuts of choice). Serve warm or cold (the general consensus is that it's better warm, but I personally like it cold). Enjoy!
