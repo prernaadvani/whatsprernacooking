@@ -61,4 +61,4 @@ Makes about 8-10 falafels -
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 4.png)
 ![_config.yml]({{ site.baseurl }}/images/baked falafel/baked falafel 5.png)
 
-* Remove from heat and serve hot. I like making a falafel bowl - recipe linked [here](https://prernaadvani.github.io/mediterranean/vegan/falafel-bowl/)
+* Remove from heat and serve hot. I like making a falafel bowl - recipe linked [here](https://www.whatsprernacooking.com/mediterranean/vegan/falafel-bowl/)
