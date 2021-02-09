@@ -5,7 +5,7 @@ categories:
   - Rice
 image:
   path: /images/thai shrimp fried rice/rice 5.png
-  thumbnail: /images/thai shrimp fried rice/rice 5.png
+  thumbnail: /images/thai shrimp fried rice/rice 4.png
 ---
 
 Loaded with veggies!
