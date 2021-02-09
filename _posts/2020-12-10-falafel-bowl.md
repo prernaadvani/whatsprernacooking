@@ -19,12 +19,12 @@ _Per bowl:_
 * 1/4 cup cooked rice (I used basmati)
 * 1/2 tablespoon pesto (I used genovese pesto)
 * Handful of baby spinach
-* 2-3 falafel - recipe link [here](https://prernaadvani.github.io/mediterranean/vegan/baked-falafel/)
+* 2-3 falafel - recipe link [here](https://www.whatsprernacooking.com/mediterranean/vegan/baked-falafel/)
 * 1/4 cup diced red onion
 * 1/4 cup diced tomatoes (a handful of diced cherry tomatoes should do the trick)
   - Alternatively, you can use 1/2 cup balela salad instead of the tomato and red onion (recommended, available at Trader Joe's or you can make it yourself)
 * 1/4 cup hummus (store bought, or you can make your own. I like using the tabbouleh style hummus from Trader Joe's)
-* 1 serving tzatziki (1/4 recipe - link available [here](https://prernaadvani.github.io/mediterranean/sides/tzatziki/))
+* 1 serving tzatziki (1/4 recipe - link available [here](https://www.whatsprernacooking.com/mediterranean/sides/tzatziki/))
 * feta, as garnish
 * parsley, as garnish
 * fresh cilantro and/or mint, as garnish (optional)
