@@ -3,6 +3,7 @@ title: "Thai Shrimp Fried Rice"
 categories:
   - Thai
   - Rice
+  - Not Vegetarian
 image:
   path: /images/thai shrimp fried rice/rice 5.png
   thumbnail: /images/thai shrimp fried rice/rice 4.png
