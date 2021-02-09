@@ -12,7 +12,7 @@ Loaded with veggies!
 
 ### Ingredients:
 
-_Per 4-5 servings:_
+_Per 4-5 servings-_
 
 * 2 tablespoons olive or avocado oil
 * 2 teaspoons minced garlic
