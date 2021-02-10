@@ -59,4 +59,4 @@ _For the bread:_
 
 ![_config.yml]({{ site.baseurl }}/images/green seyal bread/bread 5.png)
 
-* Add the mango powder and mix again. Remove from heat and serve!
+* Add the mango powder and mix again. Remove from heat and serve.
