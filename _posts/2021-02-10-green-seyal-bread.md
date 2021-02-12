@@ -3,6 +3,7 @@ title: "Green Seyal Bread"
 categories:
   - Indian
   - Family Recipes
+  - Vegan
 image:
   path: /images/green seyal bread/bread 7.png
   thumbnail: /images/green seyal bread/bread 6.png
