@@ -7,7 +7,7 @@ image:
   thumbnail: /images/kahlua ice cream/ice cream 4.png
 ---
 
-"Everything that involves coffee, by nature, is good" -Aristotle, probably in his head
+"Everything that involves coffee, by nature, is good" -Aristotle, probably in his head.
 
 The recipe that I used is adapted from [Tasty](https://www.buzzfeed.com/baileysde/baileys-salted-caramel-affogato)
 
