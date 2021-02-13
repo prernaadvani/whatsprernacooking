@@ -16,7 +16,7 @@ The recipe that I used is adapted from [Once Upon A Chef](https://www.onceuponac
 
 ### Ingredients:
 
-Makes about 60 cookies/30 sandwiches - 
+Makes about 60 cookies/30 sandwiches-
 
 _For the cookies:_
 
