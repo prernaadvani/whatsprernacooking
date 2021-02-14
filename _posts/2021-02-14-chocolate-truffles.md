@@ -11,7 +11,7 @@ image:
 
 Homemade > store bought, always. (There's a secret ingredient)
 
-The secret ingredient is love. Too cheesy? 
+The secret ingredient is love. Too cheesy? Happy Valentine's Day!
 
 ### Ingredients:
 
