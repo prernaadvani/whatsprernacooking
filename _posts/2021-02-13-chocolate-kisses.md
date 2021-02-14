@@ -99,7 +99,7 @@ Note: my quantity of filling exceeds what the recipe calls for - I made extra fo
 ![_config.yml]({{ site.baseurl }}/images/chocolate kisses/kiss 14.png)
 This is what my filling consistency looked like when I was ready to sandwich.
 
-* Pair up cookies according to size and using a knife, add the filling in between the cookies. Set aside to cool and for the filling to firm up even more.
+* Pair up cookies according to size and using a knife, add the filling in between the cookies. Set aside to cool and for the filling to firm up for about an hour before serving, or refrigerate.
 
 ![_config.yml]({{ site.baseurl }}/images/chocolate kisses/kiss 15.png)
 
