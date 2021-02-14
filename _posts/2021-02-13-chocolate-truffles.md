@@ -5,8 +5,8 @@ categories:
   - Chocolate
   - Holiday Food
 image:
-  path: /images/truffles/truffle 2.png
-  thumbnail: /images/truffles/truffle 1.png
+  path: /images/chocolate truffles/truffle 2.png
+  thumbnail: /images/chocolate truffles/truffle 1.png
 ---
 
 Homemade > store bought, always
