@@ -36,7 +36,7 @@ Makes about 15 truffles-
 
 * Cover with plastic wrap and refrigerate for at least 2 hours.
 
-* When the chocolate has cooled completely, scoop out the desired amount of chocolate and shape into a ball (I made a few different sizes for different consumer preferences). Cover in desired topping (I used unsweetened cocoa - since the chocolate is fairly sweet, the thin bitter outer layer helped even out the sugar) and serve room temperature or after refrigerating!
+* When the chocolate has cooled completely, scoop out the desired amount of chocolate and shape into a ball (I made a few different sizes for different consumer preferences). Cover in desired topping (I used unsweetened cocoa - since the chocolate is fairly sweet, the thin bitter outer layer helped even out the sugar) and serve at room temperature or after refrigerating!
 
 
 
