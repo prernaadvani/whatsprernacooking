@@ -9,7 +9,9 @@ image:
   thumbnail: /images/chocolate truffles/truffle 1.png
 ---
 
-Homemade > store bought, always
+Homemade > store bought, always. (There's a secret ingredient)
+
+The secret ingredient is love. Too cheesy? 
 
 ### Ingredients:
 
