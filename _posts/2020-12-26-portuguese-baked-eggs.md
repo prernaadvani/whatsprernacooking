@@ -2,6 +2,7 @@
 title: "Portuguese Baked Eggs"
 categories:
   - Breakfast
+  - Portuguese
 image:
   path: /images/baked eggs/eggs 2.png
   thumbnail: /images/baked eggs/eggs 1.png
