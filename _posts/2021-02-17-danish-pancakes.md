@@ -1,5 +1,5 @@
 ---
-title: "Danish Pancakes (Aebleskiver)"
+title: "Danish Pancakes (Aebleskivers)"
 categories:
   - Breakfast
   - Danish
