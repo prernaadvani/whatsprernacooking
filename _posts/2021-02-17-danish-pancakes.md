@@ -50,5 +50,5 @@ _Per 7-8 small-medium sized pancakes:_
 ![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 4.png)
 ![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 5.png)
 
-* Tramsfer cooked pancakes to a plate and top with maple syrup, fruit, and sugar. Enjoy!
+* Transfer cooked pancakes to a plate and top with maple syrup, fruit, and sugar. Enjoy!
 
