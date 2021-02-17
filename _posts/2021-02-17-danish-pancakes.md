@@ -5,7 +5,7 @@ categories:
   - Danish
 image:
   path: /images/danish pancakes/pancake 7.png
-  thumbnail: /images/pancakes/pancake 6.png
+  thumbnail: /images/danish pancakes/pancake 6.png
 ---
 
 Fluffier than the average pancake!
@@ -35,20 +35,20 @@ _Per 7-8 small-medium sized pancakes:_
 
 * In a small mixing bowl, use an electric mixer to beat the egg white until soft peaks form. Set aside.
 
-![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 1.png)
+![_config.yml]({{ site.baseurl }}/images/danish pancakes/pancake 1.png)
 
 * Combine the egg yolk/milk mixture with the dry ingredients. 
 
-![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 2.png)
+![_config.yml]({{ site.baseurl }}/images/danish pancakes/pancake 2.png)
 
 * Combine the batter with the beaten egg whites.
 
-![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 3.png)
+![_config.yml]({{ site.baseurl }}/images/danish pancakes/pancake 3.png)
 
 * Lightly grease a pan with butter and pour ~1/8 of the batter. Cook until bubbles form on the top and the bottom is golden brown. Flip and cook the other side.
 
-![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 4.png)
-![_config.yml]({{ site.baseurl }}/images/pancakes/pancake 5.png)
+![_config.yml]({{ site.baseurl }}/images/danish pancakes/pancake 4.png)
+![_config.yml]({{ site.baseurl }}/images/danish pancakes/pancake 5.png)
 
 * Transfer cooked pancakes to a plate and top with maple syrup, fruit, and sugar. Enjoy!
 
