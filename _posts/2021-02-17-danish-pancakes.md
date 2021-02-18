@@ -14,7 +14,7 @@ The recipe that I used is adapted from [Taste of Home](https://www.tasteofhome.c
 
 ### Ingredients:
 
-_Per 7-8 small-medium sized pancakes:_
+_Per 8 small-medium sized pancakes:_
 
 * .6 cup all purpose flour
 * 1/3 teaspoon baking soda
