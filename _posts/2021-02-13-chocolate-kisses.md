@@ -10,7 +10,7 @@ image:
   thumbnail: /images/chocolate kisses/kiss 16.png
 ---
 
-Made these for my loved ones this Valentine's Day season and so far it's been quite a success!
+Made these for my loved ones this Valentine's Day season and it was quite a success!
 
 The recipe that I used is adapted from [Once Upon A Chef](https://www.onceuponachef.com/recipes/chocolate-kisses-baci-di-cioccolato.html)
 
