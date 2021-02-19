@@ -88,6 +88,7 @@ _For the sauce:_
 * Dilute the corn starch in 2 tablespoons of water and gradually add it to the sauce, stirring continuously. You may not need all of the corn starch - stop adding when the sauce thickness suits your preferences.
 
 * When you reach your desired sauce consistency, add the manchurian balls.
+
 ![_config.yml]({{ site.baseurl }}/images/manchurian/manchurian 10.png)
 
 * Mix, and then remove from heat. Add the green onions. 
