@@ -37,7 +37,7 @@ _For the sauce:_
 * 3 teaspoons minced garlic 
 * 1 serrano chili pepper or 1/2 habanero pepper, deseeded and minced (I used habanero. Adjust according to spice tolerance) 
 * 1/2 green bell pepper, cut lengthwise and halved
-* 1/2 white onion, cut lengthwise and halved
+* 1/2 white onion, diced
 * 3 tablespoons soy sauce
 * 1 tablespoon rice vinegar
 * 2 tablespoons maple syrup
