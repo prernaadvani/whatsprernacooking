@@ -29,6 +29,7 @@ _For the manchurians:_
 * salt, to taste
 * 2 tablespoons corn starch 
 * 1/4 cup all purpose flour
+* 1/2 cup breadcrumbs
 * vegetable oil, for cooking
 
 _For the sauce:_
@@ -58,11 +59,11 @@ _For the sauce:_
 
 ![_config.yml]({{ site.baseurl }}/images/manchurian/manchurian 2.png)
 
-* Mix the cornstarch in one tablespoon of water until diluted and add it to the vegetable mix. Add the flour, and mix until well combined.
+* Mix the cornstarch in one tablespoon of water until diluted and add it to the vegetable mix. Add the flour and breadcrumbs, and mix until well combined.
 
 ![_config.yml]({{ site.baseurl }}/images/manchurian/manchurian 3.png)
 
-* Heat the oil in a nonstick pan. Divide the vegetable mixture into 8 equal parts and roll each part into a ball. The mixture isn't going to be sticky in itself, but should somewhat hold together. If it's too liquid, add some more flour.
+* Heat the oil in a nonstick pan. Divide the vegetable mixture into 8 equal parts and roll each part into a ball. The mixture isn't going to be sticky in itself, but should somewhat hold together. If it's too liquid, add some more flour or breadcrumbs.
 
 * Add the vegetable balls to the oil and cook for a few minutes. If you're shallow frying like I did, flip, turn and roll the balls around periodically to cook all sides. Alternatively, you can fry them entirely.
 
