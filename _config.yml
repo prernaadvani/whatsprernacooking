@@ -10,6 +10,7 @@ logo: /images/WPC Logo.png
 date_format: "%B %-d, %Y"
 future: false
 timezone: 
+google_analytics: G-GL05G882VY
 
 google_fonts:
   - name: "Source Sans Pro"
