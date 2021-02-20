@@ -9,7 +9,7 @@ image:
   thumbnail: /images/manchurian/manchurian 13.png
 ---
 
-One of my favorite Indo-Chinese dishes!
+Have you heard of Indo-Chinese?
 
 The recipe that I used is adapted from [Holy Cow Vegan](https://holycowvegan.net/veg-manchurian/)
 
