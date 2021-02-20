@@ -9,7 +9,7 @@ image:
   thumbnail: /images/dal palak/dal 6.png
 ---
 
-One of my first encounters with an Indian soup (not a stew), so it piqued my interest!
+One of my first encounters with an Indian soup (not a stew), so the recipe piqued my interest!
 
 I used an adaptation of Hari Nayak's recipe, available in [The Immigrant Cookbook](https://www.amazon.com/Immigrant-Cookbook-Recipes-America-Great/dp/1566560381/ref=asc_df_1566560381/?tag=hyprod-20&linkCode=df0&hvadid=312140312523&hvpos=&hvnetw=g&hvrand=1704980720432810813&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9052538&hvtargid=pla-407598417986&psc=1&tag=&ref=&adgrpid=60258872577&hvpone=&hvptwo=&hvadid=312140312523&hvpos=&hvnetw=g&hvrand=1704980720432810813&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9052538&hvtargid=pla-407598417986). 
 
