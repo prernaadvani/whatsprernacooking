@@ -2,6 +2,7 @@
 title: "Green Seyal Bread"
 categories:
   - Indian
+  - Sindhi
   - Family Recipes
   - Vegan
 image:
