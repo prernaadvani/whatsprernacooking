@@ -30,7 +30,7 @@ _For the vegetables:_
 
 _For the sauce:_
 * 2 tablespoons butter
-* 3 tablespoons flour,
+* 3 tablespoons flour
 * 3/4 cup chicken broth
 * 3/4 cup milk 
 * 1/2 teaspoon cayenne pepper
