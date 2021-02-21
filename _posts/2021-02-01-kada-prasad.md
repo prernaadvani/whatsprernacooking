@@ -2,6 +2,7 @@
 title: "God's Food (Kada Prasad)"
 categories:
   - Indian
+  - Sindhi
   - Dessert
   - Family Recipes
 image:
