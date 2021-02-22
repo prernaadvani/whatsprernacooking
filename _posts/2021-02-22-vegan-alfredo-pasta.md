@@ -9,13 +9,13 @@ image:
   thumbnail: /images/vegan alfredo/pasta 6.png
 ---
 
-As an avid pasta lover, I've been quite skeptical of vegan sauces, but this recipe was surprisingly good! 
+As an avid pasta lover, I've been quite skeptical of vegan sauces, but this recipe was surprisingly good!
 
 The recipe that I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1021040-vegan-fettuccine-alfredo)
 
 ### Ingredients:
 
-_Per 3-5 servings:_
+_Per 3 servings:_
 
 * 8 oz cavatappi pasta (or other pasta of choice)
 * 10 oz vegan cream cheese
