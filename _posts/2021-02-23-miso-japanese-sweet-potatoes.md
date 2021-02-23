@@ -39,7 +39,7 @@ _For the glaze:_
 
 * Preheat oven to 425 degrees.
 
-* Scrub the potatoes and cut off any blemishes or weird skin spots. Then, begin chopping them into cubes. The potatoes oxidize *very* quickly, so as you're dicing, add them to a bowl and coat with olive oil constantly. 
+* Scrub the potatoes and cut off any blemishes or weird skin spots. Then, begin chopping them into cubes. The potatoes oxidize *very* quickly, so as you're dicing, add them to a bowl and coat with olive oil continuously. 
 
 * Line a baking sheet with parchment paper and move the potatoes over. Pour any excess olive oil from the bowl over the potatoes, and top with pepper.
 
