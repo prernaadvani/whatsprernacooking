@@ -1,7 +1,7 @@
 ---
 title: "Egg Drop Soup"
 categories:
-  - Asian
+  - Chinese
   - Sides
   - Soups
 image:
