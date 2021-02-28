@@ -7,7 +7,7 @@ image:
   thumbnail: /images/egg white bites/bite 9.png
 ---
 
-My new favorite breakfast!
+A high protein breakfast to start your day!
 
 Inspired by the many Starbucks Sous Vide Egg Bites consumed during study sessions. 
 
