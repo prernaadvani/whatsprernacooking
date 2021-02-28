@@ -1,5 +1,5 @@
 ---
-title: "Spinach + Roasted Bell Pepper Egg White Bites"
+title: "Egg White Bites"
 categories:
   - Breakfast
 image:
