@@ -4,7 +4,7 @@ categories:
   - Chinese
 image:
   path: /images/lo mein/noodle 5.png
-  thumbnail: /images/lo mein/noodle 5.png
+  thumbnail: /images/lo mein/noodle 4.png
 ---
 
 Quick and easy dinner recipe! 
