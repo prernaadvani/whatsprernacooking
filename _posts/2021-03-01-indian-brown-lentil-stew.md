@@ -2,7 +2,6 @@
 title: "Indian Brown Lentil Stew (Kali Dal)"
 categories:
   - Indian
-  - Sides
   - Vegan
 image:
   path: /images/indian brown lentil stew/dal 10.png
