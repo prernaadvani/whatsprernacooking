@@ -7,7 +7,7 @@ image:
   thumbnail: /images/lo mein/noodle 5.png
 ---
 
-Loaded with veggies, per usual.
+Quick and easy dinner recipe! 
 
 ### Ingredients:
 
