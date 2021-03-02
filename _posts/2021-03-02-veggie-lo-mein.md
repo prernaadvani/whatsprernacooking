@@ -1,5 +1,5 @@
 ---
-title: "Green Veggie Lo Mein"
+title: "Veggie Lo Mein"
 categories:
   - Chinese
 image:
