@@ -2,7 +2,7 @@
 title: "Lentil + Spinach Soup (Dal Palak)"
 categories:
   - Indian
-  - Sides
+  - Soups
   - Vegan
 image:
   path: /images/dal palak/dal 7.png
