@@ -67,4 +67,4 @@ _Per 4-5 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/indian brown lentil stew/dal 8.png)
 
-* Garnish with yogurt/cream and cilantro, and serve with rice or naan!
+* Garnish with yogurt/cream and cilantro, and serve with rice or naan! Garlic naan recipe (recommended) linked [here](https://www.whatsprernacooking.com/indian/bread/sides/garlic-naan/)
