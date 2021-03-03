@@ -8,7 +8,7 @@ image:
   thumbnail: /images/coffee nice cream/nice cream 6.png
 ---
 
-Feels a little bit like a frozen smoothie pretending to be ice cream, but it's vegan with no added sugar!
+Tastes a little bit more like a frozen smoothie than ice cream, but it's vegan with no added sugar!
 
 The recipe that I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/cappuccino-nice-cream/)
 
@@ -42,5 +42,5 @@ _Per 4-5 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/coffee nice cream/nice cream 5.png)
 
-* Freeze for at least 4 hours to set. Thaw for 10-15 minutes before consuming. Enjoy!
+* Cover and freeze for at least 4 hours to set. Thaw for 10-15 minutes before consuming. Enjoy!
 
