@@ -10,7 +10,7 @@ image:
 
 Feels a little bit like a frozen smoothie pretending to be ice cream, but it's vegan with no added sugar!
 
-The recipe that I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/cappuccino-nice-cream/).
+The recipe that I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/cappuccino-nice-cream/)
 
 ### Ingredients:
 
