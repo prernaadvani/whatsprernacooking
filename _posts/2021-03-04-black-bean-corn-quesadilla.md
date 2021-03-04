@@ -7,7 +7,7 @@ image:
   thumbnail: /images/quesadilla/quesadilla 6.png
 ---
 
-Upgraded from the regular cheese quesadillas to this and haven't looked back since!
+Upgraded from the regular cheese quesadillas to this and haven't looked back since.
 
 ### Ingredients:
 
