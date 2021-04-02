@@ -2,6 +2,7 @@
 title: "Egg White Bites"
 categories:
   - Breakfast
+  - Not Vegetarian
 image:
   path: /images/egg white bites/bite 10.png
   thumbnail: /images/egg white bites/bite 9.png
