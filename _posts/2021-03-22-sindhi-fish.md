@@ -1,5 +1,6 @@
 ---
 title: "Sindhi Fish Curry (Seyal Fish)"
+published: false
 categories:
   - Not Vegetarian
   - Indian
