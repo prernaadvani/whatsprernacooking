@@ -8,7 +8,7 @@ image:
   thumbnail: /images/pasta salad/pasta salad 4.png
 ---
 
-The closest resemblance to my favorite pasta salad that I used to get back in India.
+The closest resemblance to my favorite pasta salad from back in India.
 
 ### Ingredients:
 
