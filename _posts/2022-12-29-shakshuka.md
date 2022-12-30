@@ -32,7 +32,7 @@ _Makes ~4 servings:_
 * cilantro, for garnish
 * feta, for garnish
 
-* 4 8x8 pans or 1 9x13 pan
+* Four 8x8 pans or oour 9 inch circular pans or one 9x13 pan
 
 
 ### Instructions:
@@ -49,7 +49,7 @@ _Makes ~4 servings:_
 
 * Some subjectivity on how long to keep it at a simmer - you can be good to go in anywhere from 10-30 minutes. I like a thicker consistency and simmer for the full 30 minutes.
 
-* Transfer to 4 8x8 dishes or one 9x13 dish. Using the back of a spoon, make wells in the sauce and crack eggs directly into them. I used 4 8x8 dishes and cracked 2 eggs into each dish. 
+* Transfer to 4 dishes or one 9x13 dish. Using the back of a spoon, make wells in the sauce and crack eggs directly into them. I used 4 dishes and cracked 2 eggs into each dish. 
 
 * Add some salt and pepper on top of the eggs and bake for 8-12 minutes, depending on when your egg whites look somewhat cooked. 
 
