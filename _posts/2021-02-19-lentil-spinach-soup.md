@@ -1,5 +1,5 @@
 ---
-title: "Lentil + Spinach Soup (Dal Palak)"
+title: "Lentil + Spinach Soup"
 categories:
   - Indian
   - Soups
@@ -9,7 +9,7 @@ image:
   thumbnail: /images/dal palak/dal 6.png
 ---
 
-One of my first encounters with an Indian soup (not a stew), so the recipe piqued my interest!
+Hearty soup for when it's cold and rainy outside.
 
 I used an adaptation of Hari Nayak's recipe, available in [The Immigrant Cookbook](https://www.amazon.com/Immigrant-Cookbook-Recipes-America-Great/dp/1566560381/ref=asc_df_1566560381/?tag=hyprod-20&linkCode=df0&hvadid=312140312523&hvpos=&hvnetw=g&hvrand=1704980720432810813&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9052538&hvtargid=pla-407598417986&psc=1&tag=&ref=&adgrpid=60258872577&hvpone=&hvptwo=&hvadid=312140312523&hvpos=&hvnetw=g&hvrand=1704980720432810813&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9052538&hvtargid=pla-407598417986). 
 
@@ -25,7 +25,7 @@ _Per 3-4 servings:_
 * 1/4 teaspoon garam masala
 * 1/4 teaspoon turmeric
 * 1 small tomato, diced
-* 1/2 cup yellow lentils (I used moong dal, which was available at the Kroger near me. Alternatively, you can buy it from the Indian store)
+* 1/2 cup yellow lentils (I used moong lentils, which was available at the Kroger near me)
 * 2.5 oz baby spinach
 * salt, to taste
 * fresh or dried cilantro, as garnish
