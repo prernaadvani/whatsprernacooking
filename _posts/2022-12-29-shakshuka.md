@@ -4,8 +4,8 @@ categories:
   - Breakfast
   - Mediterranean
 image:
-  path: /images/shakshuka/shakshuka 2.jpeg
-  thumbnail: /images/shakshuka/shakshuka 3.jpeg
+  path: /images/shakshuka/shakshuka 3.jpeg
+  thumbnail: /images/shakshuka/shakshuka 2.jpeg
 ---
 
 Coming back to this website after a long hiatus with this gem!
