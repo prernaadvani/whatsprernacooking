@@ -8,7 +8,7 @@ image:
   thumbnail: /images/shakshuka/shakshuka 2.jpeg
 ---
 
-Coming back to this website after a long hiatus with this gem!
+Returning to this website after a long hiatus with this gem!
 
 I have iterated this recipe a few times and love to make it for my annual galentines day brunch with some pita [(link to my recipe)](https://www.whatsprernacooking.com/mediterranean/bread/sides/vegan/pita/)
 
