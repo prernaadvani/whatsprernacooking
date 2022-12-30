@@ -32,7 +32,7 @@ _Makes ~4 servings:_
 * cilantro, for garnish
 * feta, for garnish
 
-* Four 8x8 pans or oour 9 inch circular pans or one 9x13 pan
+* Four 8x8 pans or four 9 inch circular pans or one 9x13 pan
 
 
 ### Instructions:
