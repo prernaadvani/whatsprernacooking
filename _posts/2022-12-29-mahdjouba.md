@@ -73,13 +73,11 @@ _For the filling:_
 
 ![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 10.jpeg)
 
-* Brush the seams with water and pinch to steal the dough.
-
-* Grease a nonstick pan with olive oil and pan fry the crepes on each side for a couple of minutes until golden.
+* Grease a nonstick pan with olive oil and pan fry the crepe on each side for a couple of minutes until golden. I was able to fry to crepes at a time for time efficiency.
 
 ![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 11.jpeg)
 
-* Transfer to a plate and repeat the process with the remaining 5 pieces of dough.
+* Transfer to a plate and repeat the process with the remaining pieces of dough.
 
 ![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 12.jpeg)
 
