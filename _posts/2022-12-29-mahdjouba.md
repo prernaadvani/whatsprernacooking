@@ -47,19 +47,19 @@ _For the filling:_
 
 * In a small-medium bowl, add all of the dry ingredients for the dough. Mix and slowly add water until your dough can hold a round shape without difficulty - you may have to adjust the water quantity. Cover the dough and set aside.
 
-![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 3.jpeg)
+![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 3.png)
 
 * Heat oil in a pan and add your onion, bell pepper, and garlic. Cook for a few minutes until they soften.
 
-![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 5.jpeg)
+![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 5.png)
 
 * Add the tomato paste, tomato puree, and all of your seasonings. Mix to combine and let it cook for a few more minutes until you achieve a thick consistency. Then, add the parsley, cook for another minute or two, and transfer to a bowl.
 
-![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 6.jpeg)
+![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 6.png)
 
 * Return to your dough. Lightly grease a clean surface and move the dough there. Divide into 8 equal parts.
 
-![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 7.jpeg)
+![_config.yml]({{ site.baseurl }}/images/mahdjouba/bread 7.png)
 
 * Lightly grease one of the dough parts with oil and roll it into an thin layer.
 
