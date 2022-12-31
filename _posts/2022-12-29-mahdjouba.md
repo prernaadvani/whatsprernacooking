@@ -4,7 +4,7 @@ categories:
   - Algerian
   - Bread
 image:
-  path: /images/mahdjouba/bread 2.jpeg
+  path: /images/mahdjouba/bread 2.png
   thumbnail: /images/mahdjouba/bread 1.jpg
 ---
 
