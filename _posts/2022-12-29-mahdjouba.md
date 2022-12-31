@@ -3,6 +3,7 @@ title: "Mahdjouba"
 categories:
   - Algerian
   - Bread
+  - Vegan
 image:
   path: /images/mahdjouba/bread 2.png
   thumbnail: /images/mahdjouba/bread 1.jpg
