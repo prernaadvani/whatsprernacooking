@@ -22,7 +22,7 @@ Ingredients:
 * 1 tablespoon olive oil 
 * 1/2 yellow bell pepper, diced
 * 1/2 red bell pepper, diced
-* 1/4 cup tomato puree
+* 1/2 cup tomato puree
 * salt, to taste
 * pepper, to taste
 * handful of finely chopped parsley
