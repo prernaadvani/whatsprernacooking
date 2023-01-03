@@ -45,11 +45,11 @@ _Per 2 servings:_
 
 * Add pasta and simmer your sauce for a few minutes if you like a thicker texture. 
 
-![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 5.png)
+![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 6.png)
 
 * Remove from heat transfer to a greased 8x8 baking dish. Add feta, parmesan, and scallions as a topping.
 
-![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 6.jpeg)
+![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 5.jpeg)
 
 * Bake for ~12 minutes until the sauce bubbles and cheese has melted. Wait a few minutes to cool and then serve!
 
