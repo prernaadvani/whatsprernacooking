@@ -5,7 +5,7 @@ categories:
   - Mediterranean
   - Pasta
 image:
-  path: /images/spinach pasta/pasta 2.jpeg
+  path: /images/spinach pasta/pasta 2.png
   thumbnail: /images/spinach pasta/pasta 1.png
 ---
 
@@ -35,20 +35,22 @@ _Per 2 servings:_
 
 * Combine all of your greens (spinach, arugula, parsley, scallions) and mix.
 
-![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 3.jpeg)
+![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 3.png)
 
 * In a pot, add olive oil and garlic and cook for a minute. Add your mixed greens along with your reserved pasta water - start with 1/2 cup of water and add more as needed for your desired consistency. Cook until your mixture has fully wilted.
 
-* Add all of your cheeses and mix well for a smooth sauce. Simmer your sauce for a few minutes if you like a thicker texture.
+* Add all of your cheeses and mix well for a smooth sauce. 
 
 ![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 4.jpeg)
 
+* Add pasta and simmer your sauce for a few minutes if you like a thicker texture. 
+
+![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 5.png)
+
 * Remove from heat transfer to a greased 8x8 baking dish. Add feta, parmesan, and scallions as a topping.
 
-![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 5.jpeg)
+![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 6.jpeg)
 
 * Bake for ~12 minutes until the sauce bubbles and cheese has melted. Wait a few minutes to cool and then serve!
-
-![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 6.jpeg)
 
 * Enjoy!
