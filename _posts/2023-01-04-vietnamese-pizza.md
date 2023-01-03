@@ -28,19 +28,19 @@ _For the dough:_
 
 * Lightly gease a pan and set to low heat for a few minutes. When the pan has heated, place down your rice paper.
 
-![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 3.jpeg)
+![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 3.png)
 
 * Crack an egg in the center and using one chopstick, gently scramble and spread evenly across the rice paper.
 
-![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 4.jpeg)
+![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 4.png)
 
 * Sprinkle your chili seasoning across the egg and then add your scallion and sriracha mayo.
 
-![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 5.jpeg)
+![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 5.png)
 
 * Cook for an additional few minutes if needed until the rice paper is crisp and your egg is fully cooked. I like to fold mine in half (optional). 
 
-![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 6.jpeg)
+![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 6.png)
 
 * Transfer to a plate and enjoy!
 
