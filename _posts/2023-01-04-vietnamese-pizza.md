@@ -26,7 +26,7 @@ _For the dough:_
 
 ### Instructions:
 
-* Lightly gease a pan and set to low heat for a few minutes. When the pan is heated, place down your rice paper.
+* Lightly gease a pan and set to low heat for a few minutes. When the pan has heated, place down your rice paper.
 
 ![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 3.jpeg)
 
@@ -38,7 +38,7 @@ _For the dough:_
 
 ![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 5.jpeg)
 
-* Cook for a few minutes until the rice paper is crisp and your egg is fully cooked. I like to fold mine in half (optional). 
+* Cook for an additional few minutes if needed until the rice paper is crisp and your egg is fully cooked. I like to fold mine in half (optional). 
 
 ![_config.yml]({{ site.baseurl }}/images/viet pizza/pizza 6.jpeg)
 
