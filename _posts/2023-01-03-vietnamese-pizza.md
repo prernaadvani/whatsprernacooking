@@ -14,9 +14,7 @@ The recipe that I used is adapted from [Wandercooks]([https://www.onceuponachef.
 
 ### Ingredients:
 
-Per pizza.
-
-_For the dough:_
+Per pizza:
 
 * 1 rice paper
 * 1 egg
