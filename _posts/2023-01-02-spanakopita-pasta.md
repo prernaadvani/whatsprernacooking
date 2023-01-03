@@ -47,7 +47,7 @@ _Per 2 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 6.png)
 
-* Remove from heat transfer to a greased 8x8 baking dish. Add feta, parmesan, and scallions as a topping.
+* Remove from heat and transfer to a greased 8x8 baking dish. Add feta, parmesan, and scallions as a topping.
 
 ![_config.yml]({{ site.baseurl }}/images/spinach pasta/pasta 5.jpeg)
 
