@@ -20,7 +20,7 @@ _Per 4-5 servings:_
 * 4 oz baby spinach, chopped
 * 2.5 cups marinara sauce
 * 1 cup shredded mozzarella, divided
-* 1/4 cup sharp cheddar (optional, I personally like this combination of cheese)
+* 1/4 cup ricotta (optional, I personally like this combination of cheese)
 * 1 teaspoon Italian seasoning
 * fresh basil, as garnish
 
@@ -36,8 +36,8 @@ _Per 4-5 servings:_
 ![_config.yml]({{ site.baseurl }}/images/baked spaghetti/pasta 2.png)
 ![_config.yml]({{ site.baseurl }}/images/baked spaghetti/pasta 1.png)
 
-* Add the marinara sauce to the vegetables along with the cooked spaghetti. Mix, and remove from heat.
+* Add the marinara sauce and ricotta to the vegetables along with the cooked spaghetti. Mix, and remove from heat.
 
-* Lightly grease an 8x8 dish and transfer 1/2 of the spaghetti to it. Layer with 1/2 cup mozzarella, followed by the rest of the spaghetti and the rest of the mozzarella. Top with 1/4 cup sharp cheddar, if using, and the italian seasoning. 
+* Lightly grease an 8x8 dish and transfer 1/2 of the spaghetti to it. Layer with 1/2 cup mozzarella, followed by the rest of the spaghetti and the rest of the mozzarella. Top with the italian seasoning.
 
 * Bake in the oven for ~15-20 minutes, until the cheese has melted. Garnish with fresh basil and enjoy!
