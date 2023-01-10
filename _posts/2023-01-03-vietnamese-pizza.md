@@ -1,5 +1,5 @@
 ---
-title: "Bánh Tráng Nướng (Vietnamese Pizza)"
+title: "Vietnamese Pizza (Bánh Tráng Nướng)"
 categories:
   - Vietnamese
   - Breakfast
