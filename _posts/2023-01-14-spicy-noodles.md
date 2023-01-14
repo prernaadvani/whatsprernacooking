@@ -5,7 +5,7 @@ categories:
   - Vegan
 image:
   path: /images/noodles/noodles 2.png
-  thumbnail: /images/noodles/noodles 2.png
+  thumbnail: /images/noodles/noodles 1.png
 ---
 
 10 minute recipe!
