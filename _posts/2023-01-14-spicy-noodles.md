@@ -8,7 +8,7 @@ image:
   thumbnail: /images/noodles/noodles 1.png
 ---
 
-10 minute recipe!
+10 minute noodle variation #1
 
 ### Ingredients:
 
