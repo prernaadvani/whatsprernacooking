@@ -7,7 +7,7 @@ image:
   thumbnail: /images/curry noodles/noodle 1.png
 ---
 
-Another 10 minute recipe for a busy day.
+10 minute noodle recipe #2
 
 ### Ingredients:
 
