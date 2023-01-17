@@ -1,5 +1,5 @@
 ---
-title: "Pasta Aglio E Olio"
+title: "Ziti Aglio E Olio"
 categories:
   - Italian
   - Pasta
