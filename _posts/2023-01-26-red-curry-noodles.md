@@ -7,7 +7,7 @@ image:
   thumbnail: /images/curry noodles/noodle 1.png
 ---
 
-10 minute noodle recipe #2
+10 minute noodle variation #2
 
 ### Ingredients:
 
