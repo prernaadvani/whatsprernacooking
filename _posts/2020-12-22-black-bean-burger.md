@@ -1,7 +1,7 @@
 ---
 title: "Black Bean Burger"
 categories:
-  - Burger
+  - Burger/Sandwich
 image:
   path: /images/black bean burger/burger 2.png
   thumbnail: /images/black bean burger/burger 1.png
