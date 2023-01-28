@@ -3,6 +3,7 @@ title: "Avocado Toast"
 categories:
   - Breakfast
   - Vegan
+  - Burger/Sandwich/Toast
 image:
   path: /images/avocado toast/toast 2.png
   thumbnail: /images/avocado toast/toast 1.png
