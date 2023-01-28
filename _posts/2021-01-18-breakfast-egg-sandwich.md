@@ -2,6 +2,7 @@
 title: "Breakfast Egg + Avocado Sandwich"
 categories:
   - Breakfast
+  - Burger/Sandwich/Toast
 image:
   path: /images/breakfast egg sandwich/egg 7.png
   thumbnail: /images/breakfast egg sandwich/egg 6.png
