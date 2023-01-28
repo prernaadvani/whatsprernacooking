@@ -2,6 +2,7 @@
 title: "Twice Baked Potatoes"
 categories:
   - Vegan
+  - Misc
 image:
   path: /images/baked potato/potato 2.png
   thumbnail: /images/baked potato/potato 1.png
