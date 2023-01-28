@@ -3,6 +3,7 @@ title: "Spanakopita Egg Toast"
 categories:
   - Mediterranean
   - Breakfast
+  - Burger/Sandwich/Toast
 image:
   path: /images/span egg/egg 2.png
   thumbnail: /images/span egg/egg 1.png
