@@ -3,6 +3,7 @@ title: "Tomato + Spinach + Avocado Melt"
 categories:
   - Breakfast
   - Vegan
+  - Burger/Sandwich/Toast
 image:
   path: /images/avocado melt/melt 6.png
   thumbnail: /images/avocado melt/melt 5.png
