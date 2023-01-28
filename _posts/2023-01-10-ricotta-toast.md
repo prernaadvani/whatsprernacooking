@@ -2,6 +2,7 @@
 title: "Whipped Ricotta Toast"
 categories:
   - Breakfast
+  - Burger/Sandwich/Toast
 image:
   path: /images/toast/toast 2.png
   thumbnail: /images/toast/toast 1.png
