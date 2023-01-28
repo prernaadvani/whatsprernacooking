@@ -4,6 +4,7 @@ categories:
   - Italian
   - Mediterranean
   - Pasta
+  - Fusion
 image:
   path: /images/spinach pasta/pasta 2.png
   thumbnail: /images/spinach pasta/pasta 1.png
