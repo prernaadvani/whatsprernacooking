@@ -3,6 +3,7 @@ title: "Mediterranean Toast"
 categories:
   - Breakfast
   - Mediterranean
+  - Burger/Sandwich/Toast
 image:
   path: /images/mediterranean toast/toast 2.png
   thumbnail: /images/mediterranean toast/toast 1.png
