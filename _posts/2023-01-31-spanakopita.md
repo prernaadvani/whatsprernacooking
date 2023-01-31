@@ -57,7 +57,7 @@ _Per ~40 spanakopitas:_
 
 ![_config.yml]({{ site.baseurl }}/images/spanakopita/spana 7.png)
 
-* Fold down again.
+* Fold down.
 
 ![_config.yml]({{ site.baseurl }}/images/spanakopita/spana 8.png)
 
