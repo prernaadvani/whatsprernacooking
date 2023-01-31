@@ -9,7 +9,7 @@ image:
 
 Top culinary duo: spinach and feta.
 
-The recipe that I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/spanakopita-triangles/#wprm-recipe-container-28543).
+The recipe I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/spanakopita-triangles/#wprm-recipe-container-28543).
 
 ### Ingredients:
 
