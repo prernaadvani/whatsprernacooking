@@ -10,7 +10,7 @@ image:
 
 A popular street food that also makes a quick and easy breakfast dish.
 
-The recipe that I used is adapted from [Wandercooks]([https://www.onceuponachef.com/how-to/pizza-dough-recipe.html](https://www.wandercooks.com/vietnamese-pizza-banh-trang-nuong/#recipe)).
+The recipe I used is adapted from [Wandercooks]([https://www.onceuponachef.com/how-to/pizza-dough-recipe.html](https://www.wandercooks.com/vietnamese-pizza-banh-trang-nuong/#recipe)).
 
 ### Ingredients:
 
