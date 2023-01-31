@@ -10,7 +10,7 @@ image:
 
 Like eating an integrated cheese board in one bite. Bread, fruit, cheese - you've got it all.
 
-The recipe that I used is adapted from [Moribyan](https://moribyan.com/whipped-ricotta/).
+The recipe I used is adapted from [Moribyan](https://moribyan.com/whipped-ricotta/).
 
 ### Ingredients:
 
