@@ -11,7 +11,7 @@ image:
 
 Algerian crepes that involve a tomato based filling in a crispy flatbread.
 
-The recipe that I used is adapted from [Margo Drobi](http://margodrobi.com/2022/08/17/vegan-mahjouba/#wpzoom-recipe-card).
+The recipe I used is adapted from [Margo Drobi](http://margodrobi.com/2022/08/17/vegan-mahjouba/#wpzoom-recipe-card).
 
 ### Ingredients:
 
