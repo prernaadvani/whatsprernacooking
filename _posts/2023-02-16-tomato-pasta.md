@@ -4,6 +4,7 @@ categories:
   - Pasta
   - Salad/Salad-ish
   - Family Recipes
+  - Vegan
 image:
   path: /images/tomato pasta/pasta 2.png
   thumbnail: /images/tomato pasta/pasta 1.png
