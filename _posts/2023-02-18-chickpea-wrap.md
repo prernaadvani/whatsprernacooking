@@ -2,6 +2,7 @@
 title: "Chickpea Pita Wrap"
 categories:
   - Mediterranean
+  - Vegan
 image:
   path: /images/chickpea wrap/wrap 2.png
   thumbnail: /images/chickpea wrap/wrap 1.png
