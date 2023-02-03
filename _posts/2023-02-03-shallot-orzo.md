@@ -3,6 +3,7 @@ title: "Creamy Shallot Orzo"
 categories:
   - Italian
   - Pasta
+  - Vegan
 image:
   path: /images/orzo/orzo 2.png
   thumbnail: /images/orzo/orzo 1.png
@@ -21,7 +22,7 @@ _Per 2 servings:_
 * handful of parsely, chopped, plus some extra as garnish
 * 3 oz Boursin garlic and herbs (I used [this](https://www.boursin.com/product/boursin-dairy-free/) dairy free version)
 * 1 teaspoon Italian seasoning blend
-* handful of shredded mozzarella (optional)
+* handful of shredded mozzarella (optional, sub dairy free)
 * salt, to taste
 
 ### Instructions:
