@@ -3,6 +3,7 @@ title: "Ziti Aglio E Olio"
 categories:
   - Italian
   - Pasta
+  - Vegan
 image:
   path: /images/aglio/pasta 2.png
   thumbnail: /images/aglio/pasta 1.png
