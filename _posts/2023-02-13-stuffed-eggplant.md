@@ -2,6 +2,7 @@
 title: "Stuffed Eggplant"
 categories:
   - Mediterranean
+  - Vegan
 image:
   path: /images/eggplant/egg 2.png
   thumbnail: /images/eggplant/egg 1.png
