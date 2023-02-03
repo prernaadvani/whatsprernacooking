@@ -2,6 +2,7 @@
 title: "Red Curry Udon"
 categories:
   - Thai
+  - Vegan
 image:
   path: /images/curry noodles/noodle 2.png
   thumbnail: /images/curry noodles/noodle 1.png
