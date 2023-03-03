@@ -25,10 +25,10 @@ _Per 1-2 servings:_
 
 * In an pan, heat your butter and add pepper. Cook for a minute or two to toast the pepper.
 
-![_config.yml]({{ site.baseurl }}/images/orzo/orzo 3.png)
+![_config.yml]({{ site.baseurl }}/images/cacio e pepe/pasta 3.png)
 
 * Add your orzo, plus cheese and 1/2 cup pasta water. Mix to incorporate, and add more pasta water if needed.
 
-![_config.yml]({{ site.baseurl }}/images/orzo/orzo 4.png)
+![_config.yml]({{ site.baseurl }}/images/cacio e pepe/pasta 4.png)
 
 * Garnish with some more pepper and/or cheese, and enjoy!
