@@ -1,7 +1,7 @@
 ---
-title: "Thai Tofu Noodles"
+title: "Fusion Tofu Noodles"
 categories:
-  - Thai
+  - Fusion
   - Vegan
 image:
   path: /images/tofu noodles/noodle 2.png
