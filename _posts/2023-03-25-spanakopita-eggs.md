@@ -38,7 +38,7 @@ _Per ~3 toasts:_
 
 * Add the parsley, scallions, feta, salt, and pepper. Mix until well combined and set aside. 
 
-* For reach serving, toast your bread and spread a generous amount of spinach/feta mixture on top.
+* For each serving, toast your bread and spread a generous amount of spinach/feta mixture on top.
 
 ![_config.yml]({{ site.baseurl }}/images/span egg/egg 3.png)
 
