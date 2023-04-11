@@ -17,7 +17,7 @@ I used my mother's recipe - thanks, mom!
 _Per 4-5 servings:_
 
 * 1/2 cup black lentils, soaked overnight
-* 1/2 cup kidney beans, soaked overnight
+* 3 tablespoons kidney beans, soaked overnight
 * 2 tablespoons ghee
 * 1 tablespoon minced ginger
 * 1 tablespoon minced garlic
