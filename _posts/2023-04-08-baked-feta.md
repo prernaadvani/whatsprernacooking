@@ -8,7 +8,7 @@ image:
   thumbnail: /images/baked feta/pasta 1.png
 ---
 
-Added more greens than the recipe called for (for health)
+Added more veggies than the recipe called for (for health)
 
 The recipe I used is adapted from [Feel Good Foodie](https://feelgoodfoodie.net/recipe/baked-feta-pasta/#wprm-recipe-container-31658).
 
