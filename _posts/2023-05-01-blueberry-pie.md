@@ -30,11 +30,11 @@ _Per pie:_
 
 * Transfer pie filling into one of the pie shells.
 
-![_config.yml]({{ site.baseurl }}/images/pie/pie 3.png
+![_config.yml]({{ site.baseurl }}/images/pie/pie 3.png)
 
 * Cut the second pie shell into 1-inch wide strips and drape across pie. Seal, trim, and crimp the edges.
 
-![_config.yml]({{ site.baseurl }}/images/pie/pie 4.png
+![_config.yml]({{ site.baseurl }}/images/pie/pie 4.png)
 
 * Brush the top with egg wash. 
 
