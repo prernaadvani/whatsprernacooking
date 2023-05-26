@@ -11,7 +11,8 @@ image:
 
 My roommate made this!
 
-The recipe it adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1023496-miso-butter-roasted-broccoli).
+Thanks for cooking, Mahima! 
+The recipe is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1023496-miso-butter-roasted-broccoli).
 
 ### Ingredients:
 
