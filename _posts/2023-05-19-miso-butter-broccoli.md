@@ -6,7 +6,7 @@ categories:
   - Salad/Salad-ish
 image:
   path: /images/broccoli/broccoli 2.png
-  thumbnail: /images/broccoli/broccoli 2.png
+  thumbnail: /images/broccoli/broccoli 1.png
 ---
 
 My roommate made this!
