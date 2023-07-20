@@ -60,6 +60,6 @@ _Per 5-6 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/fritatta/fritatta 9.png)
 
-* Bake for 20-39 minutes until eggs are set. Rule of thumb is when you shake the pan, the eggs shouldn’t jiggle.
+* Bake for 20-30 minutes until eggs are set. Rule of thumb is when you shake the pan, the eggs shouldn’t jiggle.
 
 * Cool for ~10 minutes and then serve! Enjoy!
