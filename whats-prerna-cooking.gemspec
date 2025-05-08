@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "whats-prerna-cooking"
-  spec.version                 = "3.3.22"
+  spec.version                 = "3.2.0"
   spec.authors                 = ["Prerna Advani"]
 
   spec.summary                 = %q{A Pandemic Induced Recipe Website}
