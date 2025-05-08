@@ -16,9 +16,9 @@ The recipe that I used is adapted from [NYT Cooking](https://cooking.nytimes.com
 
 _Makes 2 serving:_
 
-* ~1/5 lbs sweet potatoes, chopped into cubes
-* 3 tablespoons butter (I used Earth Balance to make it Vegan)
-* 1 tablespoon Italian seasoning blen
+* ~1.5 lbs sweet potatoes, chopped into cubes
+* 3 tablespoons butter (I used Earth Balance to make it vegan)
+* 1 tablespoon Italian seasoning blend
 * 1.5 tablespoons Balsamic Vinegar
 * 1 tablespoon maple syrup (or honey in a pinch)
 * 1 15oz can of lentils, rinsed and drained
