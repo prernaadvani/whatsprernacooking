@@ -36,6 +36,6 @@ _Makes 2 serving:_
 
 * Toss the cooked sweet potatoes into the pot and stir to combine. Add more salt/pepper if needed.
 
-* Garnish with feta or more parley. Enjoy!
+* Garnish with feta or more parsley. Enjoy!
 
 
