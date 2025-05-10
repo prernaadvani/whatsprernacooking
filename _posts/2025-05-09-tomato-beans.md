@@ -18,7 +18,7 @@ Per ~2-3 servings.
 * 1 teaspoon chili flakes
 * 1/3 cup tomato paste
 * 3/4 cup unsweetened milk (I used soy)
-* 1/4 cup vegan heavy cream (I use [this](https://silk.com/plant-based-products/creamer/dairy-free-heavy-whipping-cream-alternative/) one
+* 1/4 cup vegan heavy cream (I use [this](https://silk.com/plant-based-products/creamer/dairy-free-heavy-whipping-cream-alternative/) one)
 * 6 oz spinach
 * Handful of fresh parsley
 * olive oil, as much as needed
