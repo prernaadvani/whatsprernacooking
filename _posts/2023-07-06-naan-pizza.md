@@ -8,7 +8,7 @@ image:
   thumbnail: /images/naan pizza/pizza 1.png
 ---
 
-Comes together quickly in a pinch!
+Emergency meal
 
 ### Ingredients:
 
