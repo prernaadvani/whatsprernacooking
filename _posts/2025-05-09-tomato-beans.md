@@ -7,7 +7,7 @@ image:
   thumbnail: /images/tomato beans/bean 1.png
 ---
 
-Live love laugh beans
+Like a pasta sauce with beans
 
 ### Ingredients:
 
