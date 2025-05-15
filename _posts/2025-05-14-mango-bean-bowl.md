@@ -19,7 +19,7 @@ Per ~3-4 servings.
 * 1 red bell pepper, diced
 * 1 large tomato, slced (I used a beefsteak tomato)
 * 1/2 tablespoon cumin
-* 1 teaspoon aleppo peppers (optional)
+* 1 teaspoon aleppo pepper flakes (optional)
 * 1/2 cup cilantro, chopped
 * 4-5 green onions, chopped
 * 1.5 tablespoons butter
