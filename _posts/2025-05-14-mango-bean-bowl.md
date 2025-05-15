@@ -37,7 +37,7 @@ Per ~3-4 servings.
 
 ### Instructions:
 
-* In a pot, heat some olive oil (~2 tablespoons-ish), and add the garlic. Once fragrant, add the bell peppers and give it a stir. Then add the tomatoes along with the cumin and aleppo peppers, if using. Saute for a couple of minutes. Then, add the black beans to the po (I like to mash some of them up to help thicken the consistency) along with ~1/2 cup water. Add the green onions and cilantro. Season with salt and pepper, to taste. Once this comes to a boil, reduce the heat to a simmer and let it sit for around 25-30 minutes, stirring occasionally and adding more water if needed. 
+* In a pot, heat some olive oil (~2 tablespoons-ish), and add the garlic. Once fragrant, add the bell peppers and give it a stir. Then add the tomatoes along with the cumin and aleppo peppers, if using. Saute for a couple of minutes. Then, add the black beans to the pot (I like to mash some of them up to help thicken the consistency) along with ~1/2 cup water. Add the green onions and cilantro. Season with salt and pepper, to taste. Once this comes to a boil, reduce the heat to a simmer and let it sit for around 25-30 minutes, stirring occasionally and adding more water if needed. 
   
 ![_config.yml]({{ site.baseurl }}/images/mango bean bowl/bowl 3.png)
 
