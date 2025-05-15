@@ -43,7 +43,7 @@ Per ~3-4 servings.
 
 * Separately, in a pan, add the butter and once melted, add the corn. Add some salt and pepper, to taste. Let the corn roast, stirring occasionally, for around 15 minutes. I like to add a handful of cilantro in the corn as well (optional). When the corn is roasted and toasted, finish by squeezing the lime on top.
 
-* Assemble all your ingredients for the bowl (cucumber, mango, greens, guasacaca/guacamole, pepita salsa (if using):
+* Assemble all your ingredients for the bowl (cucumber, mango, greens, guasacaca/guacamole, pepita salsa)
 
 ![_config.yml]({{ site.baseurl }}/images/mango bean bowl/bowl 4.png)
 
