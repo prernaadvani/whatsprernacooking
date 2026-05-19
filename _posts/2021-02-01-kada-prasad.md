@@ -10,7 +10,7 @@ image:
   thumbnail: /images/kada prasad/prasad 6.png
 ---
 
-This dessert is traditionally taken to the temple as an offering or consumed at religious events. It is also the only indian dessert that I randomly crave on occasion.
+This dessert is traditionally taken to the temple as an offering or consumed after worship at Sikh temples. 
 
 Only 5 ingredients, and one of them is water!
 
@@ -22,7 +22,7 @@ _Per 6-8 servings:_
 * 1 cup sugar
 * 3/4 cup ghee
 * 1 cup white whole wheat milled flour
-* 3 cardamom pods
+* 5 cardamom pods
 * handful of chopped pecans, as garnish (optional)
 
 ![_config.yml]({{ site.baseurl }}/images/kada prasad/prasad 1.png)
@@ -33,7 +33,7 @@ _Per 6-8 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/kada prasad/prasad 2.png)
 
-* In a small-medium pot (my mother recommends stainless steel, but you can also use nonstick), melt the ghee and wheat flour. Stir to combine, and then reduce heat to a simmer. Add the cardamom pods, and keeping the heat low, stir constantly until the mixture darkens from light brown to medium brown. It shouldn't be too dark, like the color of chocolate. I usually aim for the color of coffee after adding milk.
+* In a small-medium pot, melt the ghee and wheat flour. Stir to combine, and then reduce heat to a simmer. Add the cardamom pods, and keeping the heat low, stir constantly until the mixture darkens from light brown to medium brown. It shouldn't be too dark, like the color of chocolate. I usually aim for the color of a latte.
 
 ![_config.yml]({{ site.baseurl }}/images/kada prasad/prasad 4.png)
 
@@ -41,6 +41,6 @@ _Per 6-8 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/kada prasad/prasad 5.png)
 
-* Continue stirring until it thickens a little bit more and then fish out the cardamom pods to discard. (One of my least favorite feelings is accidentally trying to eat one of these)
+* Continue stirring until it thickens a little bit more and then fish out the cardamom pods to discard. 
 
 * Transfer to a bowl and garnish with chopped pecans (or other nuts of choice). Serve warm or cold (the general consensus is that it's better warm, but I personally like it cold). Enjoy!
