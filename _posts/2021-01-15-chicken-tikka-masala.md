@@ -1,5 +1,5 @@
 ---
-title: "Butter Chicken"
+title: "Chicken Tikka Masala"
 categories:
   - Indian
   - Not Vegetarian
