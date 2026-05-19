@@ -14,7 +14,7 @@ I used my mother's recipe - thanks, mom!
 
 ### Ingredients:
 
-_Per 4-5 servings:_
+_Per 1 serving:_
 
 * 1/2 cup black lentils, soaked overnight
 * 3 tablespoons kidney beans, soaked overnight
