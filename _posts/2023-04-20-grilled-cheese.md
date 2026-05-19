@@ -7,7 +7,7 @@ image:
   thumbnail: /images/grilled cheese/cheese 1.png
 ---
 
-Inspired by the grilled cheese offered by my favorite cafe back in Dallas!
+Burned the bread but still tasted great!
 
 PS: If you ever find yourself in Dallas craving a grilled cheese, [Cafe Brazil](https://www.cafebrazil.com) is the place to go.
 
