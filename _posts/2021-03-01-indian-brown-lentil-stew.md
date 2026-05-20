@@ -1,5 +1,5 @@
 ---
-title: "Indian Brown Lentil Stew (Kali Dal)"
+title: "Indian Brown Lentil Stew"
 categories:
   - Indian
   - Vegan
