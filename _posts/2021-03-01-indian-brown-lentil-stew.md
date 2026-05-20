@@ -16,7 +16,7 @@ I used an adaptation of Kanchan Koya's recipe, available in [here](https://thefe
 
 _Per 4-5 servings:_
 
-* 1 cup urad dal (whole black lentils)
+* 1 cup urad dal (whole black lentils). Ideally you'd use this, but usually tough to find unless you're at an Indian grocery store. I used canned lentils when I made this.
 * 1 small white onion
 * 1 tablespoon avocado or olive oil
 * 1/2 teaspoon cumin seeds
@@ -32,7 +32,7 @@ _Per 4-5 servings:_
 
 ### Instructions:
 
-* Soak the lentils for 6-12 hours (overnight is easiest - just make sure you put them in plenty of water)
+* Soak the lentils for 6-12 hours (overnight is easiest - just make sure you put them in plenty of water). If you're using canned lentils, just drain and rinse -> skip to step 3. 
 
 * Drain and rinse the lentils post-soak. Place in a pot with 3x as much water as lentils and set to medium-high heat. Once the water comes to a boil, reduce heat and simmer covered for 60-70 minutes until lentils are completely tender, adding more water if necessary. Drain and set aside.
 
