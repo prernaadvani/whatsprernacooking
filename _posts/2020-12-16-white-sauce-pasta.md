@@ -9,7 +9,7 @@ image:
 ---
 
 
-The result when carbonara, cacio e pepe, and bechamel combine forces.
+The result when cacio e pepe and bechamel combine forces.
 
 
 ### Ingredients:
@@ -25,7 +25,6 @@ Makes about 2 servings -
 * 1.5 tablespoons all purpose flour
 * 3/4 cup half and half
 * 3/4 cup grated pecorino romano, plus some extra as a garnish (in a pinch, you can use parmesan)
-* 1 egg yolk
 * salt, to taste
 
 
@@ -37,7 +36,7 @@ Makes about 2 servings -
 
 * In a small-medium saucepan, melt butter. Next, add the minced garlic and stir for a minute or two until the garlic is aromatic. Next, add the flour and mix to combine. Let the mixture cook for a minute or two, and then very slowly begin adding the half and half, stirring to combine between each small addition. Continuously mixing and slowly combining will prevent the sauce from becoming clumpy. Slowly, add the pecorino romano and continue cooking, stirring occasionally.
 
-* Once the sauce has thickened a little over heat, add the egg yolk and the toasted peppercorns. Stir to combine, and then add the cooked pasta and pasta water. Mix and stir for a few minutes, and then take the saucepan off the heat. 
+* Once the sauce has thickened a little over heat, add the toasted peppercorns. Stir to combine, and then add the cooked pasta and pasta water. Mix and stir for a few minutes, and then take the saucepan off the heat. 
 
 * Transfer pasta to a bowl, sprinkle some pecorino romano on the top, and enjoy!
 
