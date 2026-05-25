@@ -10,7 +10,7 @@ image:
 
 First post in nearly two years (!) to share my new favorite bowl!
 
-The recipe that I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1021511-brown-butter-lentil-and-sweet-potato-salad)).
+The recipe that I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1021511-brown-butter-lentil-and-sweet-potato-salad).
 
 ### Ingredients:
 
