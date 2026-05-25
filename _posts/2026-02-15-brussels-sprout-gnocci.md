@@ -8,7 +8,7 @@ image:
   thumbnail: /images/brussel gnocci/gnocci 1.png
 ---
 
-My coworker recommended this recipe as a great meal prep option.
+My coworker recommended this recipe as a meal prep option.
 
 The recipe I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1020453-crisp-gnocchi-with-brussels-sprouts-and-brown-butter).
 
