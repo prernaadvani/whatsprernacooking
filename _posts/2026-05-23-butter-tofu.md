@@ -10,7 +10,7 @@ image:
 
 Butter chicken for vegans.
 
-The recipe that I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1020094-tofu-makhani-indian-butter-tofu).
+The recipe I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1020094-tofu-makhani-indian-butter-tofu).
 
 ### Ingredients:
 
