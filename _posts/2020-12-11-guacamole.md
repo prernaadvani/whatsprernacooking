@@ -9,7 +9,7 @@ image:
   thumbnail: /images/guac/guac 2.png
 ---
 
-Dangerously addictive. 
+Game night staple.
 
 The recipe that I used is adapted from my friend Inna's guacamole recipe. Thanks, Inna!
 
