@@ -4,7 +4,7 @@ categories:
   - Indian
   - Vegan
 image:
-  path: /images/butter tofy/tofu 2.png
+  path: /images/butter tofu/tofu 2.png
   thumbnail: /images/butter tofu/tofu 1.png
 ---
 
