@@ -25,7 +25,7 @@ _Per 2-3 servings:_
 * 1/2 fresh lemon
 * 6 tablespoons butter (I used Earth Balance)
 * drizzle of honey 
-* grated parmesan, as garnish (I used Violife's fresh vegan parmesan block)
+* grated parmesan, as garnish (I used Violife's vegan parmesan)
 
 
 ### Instructions:
