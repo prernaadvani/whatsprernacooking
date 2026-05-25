@@ -8,7 +8,7 @@ image:
   thumbnail: /images/curry tofu/tofu 1.png
 ---
 
-2026 is the year of tofu.
+2026 is the year I get good at cooking tofu.
 
 The recipe I used is (loosely!) adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/1022862-brothy-thai-curry-with-silken-tofu-and-herbs).
 
