@@ -8,7 +8,7 @@ image:
   thumbnail: /images/bruschetta/bruschetta 7.png
 ---
 
-One of my favorite appetizers growing up!
+One of my favorite snacks growing up!
 
 ### Ingredients:
 
