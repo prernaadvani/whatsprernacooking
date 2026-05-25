@@ -25,6 +25,7 @@ _Per 3-4 servings:_
 * 2 tablespoons dark soy sauce
 * juice of 1/2 lime, with other half saved for the garnish
 * 1 cup Thai basil leaves
+* 1-2 scallions, sliced
 * salt, to taste (I didn't need to add any and you may not either)
 
 
@@ -38,6 +39,6 @@ _Per 3-4 servings:_
 
 ![_config.yml]({{ site.baseurl }}/images/basil tofu/tofu 3.png)
 
-* Add the lime juice and Thai basil leaves. Give it a good stir and add salt if you need.
+* Add the lime juice and Thai basil leaves. Give it a good stir and add salt if you need. 
 
-* Enjoy as is or with some rice.
+* Garnish with the lime and scallions. Enjoy as is or with some rice.
