@@ -35,7 +35,7 @@ _Per 3 servings:_
 
 * Add the vegetable stock and cook for another 5 minutes or so.
 
-* Add the coconut milk and fresh herbs. Let it simmer for around 10 minutes. Do a quick salt check before taking it off the heat.
+* Add the coconut milk and fresh herbs. Let it simmer on low heat for around ~15 minutes. Do a quick salt check before taking it off the heat.
 
 ![_config.yml]({{ site.baseurl }}/images/curry tofu/tofu 3.png)
 
