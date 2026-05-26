@@ -22,7 +22,7 @@ For pickled onions:
 * 1 tablespoon sumac 
 * pinch of salt
 * pinch of sugar
-* Juice of 1 lemon
+* juice of 1 lemon
 
 For tofu:
 
