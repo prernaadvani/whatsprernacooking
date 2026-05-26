@@ -1,5 +1,5 @@
 ---
-title: "Zaalouk"
+title: "Tofu Shawarma"
 categories:
   - Middle Eastern
   - Vegan
