@@ -8,9 +8,9 @@ image:
   thumbnail: /images/tofu shawarma/tofu 1.png
 ---
 
-Tasty eggplant dip!
+Shawarma for vegans.
 
-The recipe I used is adapted from [The Spruce Eats](https://www.thespruceeats.com/moroccan-zaalouk-eggplant-and-tomato-salad-2394866).
+The recipe I used is adapted from [NYT Cooking](https://cooking.nytimes.com/recipes/759520233-crispy-tofu-shawarma).
 
 ### Ingredients:
 
