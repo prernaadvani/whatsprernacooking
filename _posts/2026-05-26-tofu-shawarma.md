@@ -75,4 +75,4 @@ For the rice:
 
 * Combine all the ingredients for the salad and set aside.
 
-* Create your bowls by adding some tofu, some salad, and some pickled onions. Drizzle with dressing or add a heap of greek yogurt. Enjoy!
+* Create your bowls by adding some tofu, some salad, some rice, and some pickled onions. Drizzle with dressing or add a heap of greek yogurt. Enjoy!
